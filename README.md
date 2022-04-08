@@ -169,5 +169,7 @@ https://g3.mc-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="CABLE" , 13 SAN LUIS
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 1
+https://5.trstream01.xyz/canal6/stream.m3u8
 
 
