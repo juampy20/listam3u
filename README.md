@@ -171,5 +171,8 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 1
 https://5.trstream01.xyz/canal6/stream.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 2
+https://5.trstream01.xyz/canal3/stream.m3u8
+
 
 
