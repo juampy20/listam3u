@@ -171,3 +171,4 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.a24.com/assets/img/296/header-logo.svg" group-title="NOTICIEROS" , A24
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/b1724883-9926-4ff7-b70d-c6b5c2ab1d91:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+....
