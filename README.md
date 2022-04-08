@@ -175,6 +175,10 @@ https://5.trstream01.xyz/canal6/stream.m3u8
 https://5.trstream01.xyz/canal3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 3
 https://2.trstream01.xyz/canal4/stream.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 4
+https://3.trstream01.xyz/canal2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 5
+https://2.trstream01.xyz/canal6/stream.m3u8
 
 
 
