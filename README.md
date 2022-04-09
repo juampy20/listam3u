@@ -199,7 +199,8 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunk
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb2eq9sQr1VdV7Qoif3Po1A)/dm/3/x7v76vf/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="DOCUMENTAL" , CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2018-05/c5n-foto.jpg?itok=eN5VT0LI" group-title="NOTICIEROS" , C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649539157/ei/9aNRYp6qG4aR5gTsg5KYAg/ip/45.7.209.199/id/-vGhSrfKfUQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC4r-6-DEUtk9A9WuZ8Y5_PYU_4agtDFaPUsnDA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge4jNcmeAQC7_LF7SyVDAOQnCtb5-SrQuVwX9v5kGpy4CIBVXKB-nhP9LRNhvbu8GSA9hoQHQ0ICRjrhRxLPL4iIs/file/index.m3u8
 
 
 
