@@ -193,6 +193,8 @@ https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w558520804_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiXCt81PYMwZZnv6CfUGMRIt4jO23n6IVR3WoXvp0EqI86dtq94KaSTVp3u_G97JHHsjTIUgk9Ts5b2Zhw4e492bLnvsGR_hPQvYulg9UZnaKjseV3gxJEqm9vcVPyx-p46rC3mLjN8r2pjJ2Rt84GkTxZEDrHaLOmQpssRF4krS8ZgaAlgfcqR55yw3A=w161-h151" group-title="CANALES MEXICO" , TV PACIFICO
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFnhEZ0HsIulNlD4BYm6AxKxwko6tvg_NMxyF4HxqYBhvq45iYwo0YHkW7ALsR2Od_YS4wTUwLOgu8Y7DhaIuU7Vl0ZVKNHGvr-0ACIYXd5UpgSdjiH7B5Yg2RBSoOlnw27RWybBDWUNJPoC78IwytWhz0MajIPDE6qneSkjik52_MOLaFIYDqZOxbZA=w171-h155" group-title="CANALES MEXICO" , MAR LA PAZ
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1488383989_b1428000_sleng.m3u8
 
 
 
