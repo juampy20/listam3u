@@ -195,6 +195,9 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w558520804_DVR
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFnhEZ0HsIulNlD4BYm6AxKxwko6tvg_NMxyF4HxqYBhvq45iYwo0YHkW7ALsR2Od_YS4wTUwLOgu8Y7DhaIuU7Vl0ZVKNHGvr-0ACIYXd5UpgSdjiH7B5Yg2RBSoOlnw27RWybBDWUNJPoC78IwytWhz0MajIPDE6qneSkjik52_MOLaFIYDqZOxbZA=w171-h155" group-title="CANALES MEXICO" , MAR LA PAZ
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1488383989_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjENh-yhIj8f8CFWSxetQslBHAGVgBzOOZ6YH-YISb3lpOto76KABGiDkYO1nLoFu7owWRwZ3LbMcXg4Ie7zD6SRPh1cXxHGhncEAtSV7xnFVFPFl9fCMLAMQiPVcVDctkFNlSkwNXGJyNro5PZ2npa80ZVSWZxHboyd0Kuz85Kr_DWql-paiyMWNlvXQ=w127-h127" group-title="CANALES MEXICO" , MEXICO TRAVEL
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb2eq9sQr1VdV7Qoif3Po1A)/dm/3/x7v76vf/s/live-0.m3u8
+
 
 
 
