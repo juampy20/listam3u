@@ -191,6 +191,9 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgy14rLXgA9YLEUCPGYeTvroDzVfVFWwD9XRr9SlFvsqjgx3ZFosvGXxIpPuQW4A9DeSvfPL1rqYxLfgt-S3XSNTbgEP_Ez4kvYubnDIVOi3cJZaBfwLJh04w-qOGcOkutEttAk1nuBWDUEM2VAypGsAoCa5Q_W4vvtQdL8cFz6_8iWMSMTNJOLgL-ozw=w151-h151" group-title="CANALES MEXICO" , UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w558520804_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiXCt81PYMwZZnv6CfUGMRIt4jO23n6IVR3WoXvp0EqI86dtq94KaSTVp3u_G97JHHsjTIUgk9Ts5b2Zhw4e492bLnvsGR_hPQvYulg9UZnaKjseV3gxJEqm9vcVPyx-p46rC3mLjN8r2pjJ2Rt84GkTxZEDrHaLOmQpssRF4krS8ZgaAlgfcqR55yw3A=w161-h151" group-title="CANALES MEXICO" , TV PACIFICO
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
 
 
 
