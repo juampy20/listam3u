@@ -212,6 +212,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649542185/ei/y
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_turf-en-vivo-hipodromo-de-la-plata_p_m.jpg" group-title="TURF" , HIPODROMO DE LA PLATA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36
 http://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/cOC6w4l8XFViB3zcPTFkuk8Eog2oNfU8C2xz3hTO.jpeg?size=web_h_m" group-title="CANALES URUGUAYOS" , CANAL 8 SALTO
+https://vxlive.cdn.antel.net.uy/auth_V_Canal_8_Salto,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfOF9TYWx0byUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjQ5NTM2OTQ2JnJhbmRvbT1zNWJ3NjhWYjJ4JmMtaXA9NDUuNy4yMDkuMTk5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bnIsZDg0YjZlMDNlNTQyNTRjNjE3YTljMTBhMTk4NjU4Njg2ODY3OTU4ZmUzMGEwYjAxYzc4N2RkNzBkNTIwMjkxZA==/vxfmt=hls/playlist.m3u8
 
 
 
