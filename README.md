@@ -187,7 +187,7 @@ https://1.trstream01.xyz/canal6/stream.m3u8
 https://4.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="CANALES URUGUAYOS" , VTV
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgyxnUS0k3Bm_kVKdstyea7KFlCrbBmCHOE7tiOLExO8JRQo-ENGrd5COMne6s9oSlg7067btRAv1c_k8gB_xcgr5PkoDA8c8XPuQ8jd75rmkVHM4q2FYgQG_YvUuDxQ9uWS2OlvsHPukt3mjs2P50mgm7AqtWeyWXlVES1dG42afWWfwk_ILVkXYqpgw=w135-h135" group-title="MEXICO" , 11
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgyxnUS0k3Bm_kVKdstyea7KFlCrbBmCHOE7tiOLExO8JRQo-ENGrd5COMne6s9oSlg7067btRAv1c_k8gB_xcgr5PkoDA8c8XPuQ8jd75rmkVHM4q2FYgQG_YvUuDxQ9uWS2OlvsHPukt3mjs2P50mgm7AqtWeyWXlVES1dG42afWWfwk_ILVkXYqpgw=w135-h135" group-title="CANALES MEXICO" , 11
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 
 
