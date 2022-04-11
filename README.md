@@ -24,7 +24,7 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history2_.png" group-title="DOCUMENTAL" , HISTORY 2
 https://edge4-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeowild_.png" group-title="DOCUMENTAL" , NAT GEO WILD HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/animalplanet_.png" group-title="DOCUMENTAL" , ANIMAL PLANET
 https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="DOCUMENTAL" , NATGEO HD
@@ -251,6 +251,7 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+
 
 
 
