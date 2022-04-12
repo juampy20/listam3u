@@ -252,8 +252,86 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 
-
-
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png" group-title="PERU", + Listas en M3U.CL * | CL
+https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" group-title="PERU", DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="PERU", Best Cable Sports | PE
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="PERU", Canal IPE | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="PERU", Best Cable Music | PE
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="PERU", Hatun TV | PE
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="PERU", Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="PERU", Mas Cumbia | PE
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="PERU", Mundo de la Musica TV | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", Planeta TV | PE
+https://live.obslivestream.com/planetatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg", UCI Noticias 1 | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="706" tvg-name="UCI Noticias 2" tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg", UCI Noticias 2 | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png", ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png", ATV+ | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png", Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1088" tvg-name="Best Cable TV" tvg-logo="https://i2.paste.pics/4d6efdcb678afcea5b225ed4b8ad2036.png", Best Cable TV | PE
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV | PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1097" tvg-name="Canal 8 Catacaos" tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png", Canal 8 Catacaos | PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png", Central TV Chosica | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png", Cultura 24 TV | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png", Genios TV | PE
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png", Hechicera TV | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1096" tvg-name="Huacho Peru TV" tvg-logo="https://i2.paste.pics/b91d1d32717de76dbab8660766b12629.png", Huacho Peru TV | PE
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://lh3.googleusercontent.com/-mZYPPkr3lEM/Xz8nJ5U-KDI/AAAAAAAA4tY/eHsF8i1WgCUkVCYv0uwTns3hLJJBKA2vwCK8BGAsYHg/s0/2020-08-20.png", JN19 | PE
+https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="698" tvg-name="Monterrico TV" tvg-logo="https://lh3.googleusercontent.com/-ubba7Fazm30/XoKEe8ipZUI/AAAAAAAAxVg/eijnSgeRNh0-NC9FCmLK4kGJxVnVjYZwQCK8BGAsYHg/s0/2020-03-30.png", Monterrico TV | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1095" tvg-name="OK TeVe" tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png", OK TeVe | PE
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png", Ovacion | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana | PE
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="700" tvg-name="Pax TV" tvg-logo="https://lh3.googleusercontent.com/-KiYoJglAEkg/XoKFEMguOHI/AAAAAAAAxVs/FHhV5IZIsWgVYH0l206sX4RIgloT-TJcgCK8BGAsYHg/s0/2020-03-30.png", Pax TV | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1115" tvg-name="Tumpis TV" tvg-logo="https://i2.paste.pics/68f89669da2e29ccab89808b3da44231.png", Tumpis TV | PE
+https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 | PE
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1091" tvg-name="TVPE" tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png", TVPE | PE
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png", TVperuanisima | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="702" tvg-name="Unitel" tvg-logo="https://lh3.googleusercontent.com/-a6-jFincYx4/XoKGQM0oJWI/AAAAAAAAxWA/JPXlKZwqMPE26VLeUAg9y0wBYOfSIGotwCK8BGAsYHg/s0/2020-03-30.png", Unitel | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png", Uranio TV | PE
+https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
 
 
 
