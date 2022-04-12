@@ -333,6 +333,10 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="PERU" , Uranio TV | PE
 https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES" , directv
+https://chupa1.site/live/flowitc96js.m3u8
+
+
 
 
 
