@@ -336,7 +336,8 @@ https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES" , directv
 https://chupa1.site/live/flowitc96js.m3u8
 
-
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES" , NBA
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 
 
 
