@@ -498,6 +498,36 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Costa Rica",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBTVTicaVision.cr" tvg-country="CR" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica",HBTV TicaVisión (1080p)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Humor247.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320" group-title="Costa Rica",Humor 24-7 (360p)
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STVElCamalFamiliar.cr" tvg-country="CR" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="Costa Rica",STV El Camal Familiar (720p)
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="Costa Rica",Tele Uno (720p)
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="(NOTICIEROS)",Tele Uno (720p)
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-country="CR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-pLqFOvp-6R_dr9whF_Q5IBLtvtRcMjOY2xmROz5zFlIu7Y88Q&s" group-title="Costa Rica",TV Sur Canal 9 (480p)
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-country="CR" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="(DOCUMENTAL)",Video Tour Channel (720p)
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Dominican Republic",DAN TV (720p)
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
