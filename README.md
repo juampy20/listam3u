@@ -729,6 +729,40 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="Peru",TV Peruanísima (720p)
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/usiltv/picture?width=320&height=320" group-title="Peru",USIL TV
+https://video.produccionesmagicorp.com/redes/video.m3u8
+
+#EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="ESPANA",101 Tele Antequera (1080p)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
+#EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="APunt.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="ESPANA",À Punt (720p)
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="BailenTV.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESPANA",Bailén TV (720p)
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="ESPANA",Bon Dia TV (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
