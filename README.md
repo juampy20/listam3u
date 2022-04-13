@@ -441,6 +441,33 @@ https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-country="CL" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" group-title="Chile",TV Pop (720p)
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VCOnline.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/897eGEd.png" group-title="(MUSICA)",VC Online (546p)
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Chile",VTV Valle de Aconcagua (720p)
+http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="Colombia",ATV (Soacha | Cundinamarca)
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="CRISTIANA",Avivamiento TV (720p)
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="Colombia",Cali TV (Santiago de Cali | Valle del Cauca) (540p)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="Colombia",Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="Colombia",Canal C (Santiago de Cali | Valle del Cauca) (720p)
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalDos.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="(MUSICA)",Canal Dos (Yopal | Casanare) (720p)
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Colombia",Canal Visión Dorada (720p)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 
 
 
