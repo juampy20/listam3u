@@ -339,6 +339,54 @@ https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="DEPORTES" , NBA 2
 https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/chunks.m3u8
 
+#EXTINF:-1 tvg-id="AlcarriaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",Alcarria TV (576p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Mexico",Canal 10 Cancún (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Mexico",Canal 44 Chihuahua (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Mexico",Canal Catorce (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Mexico",Capital 21
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Mexico",Conecta TV (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CortTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g6ABkaV.png" group-title="Mexico",CorTV (800p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
