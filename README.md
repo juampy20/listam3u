@@ -621,6 +621,97 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-country="PY" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Farra Play (238p)
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-id="TreceParaguay.py" tvg-country="PY" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Paraguay",Trece Paraguay (720p)
+http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1 tvg-id="AuténticaTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru",Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/2135035553436599/picture?width=320&height=320" group-title="Peru",Bella Abanquina TV (Apurimac)
+https://v4.tustreaming.cl/bellatv/index.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Peru",BHTV (720p)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" group-title="Peru",Canal 8 (Catacaos)
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
+#EXTINF:-1 tvg-id="CanalEvelyn.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320" group-title="Peru",Canal E (Evelyn) (Nororiente)
+https://srv1.mediastreamperu.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="CANALIPE.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="(MUSICA)",CANAL IPE
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Peru",Chicos IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="Peru",ClipsTV (Ica)
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Peru",CR Television (Moyobamba)
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalCreoTv/picture?width=320&height=320" group-title="Peru",CreoTV (Cajamarca)
+https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Peru",Cultura 24 (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="(MUSICA)",DMJ (Cuzco)
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="Peru",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Peru",Genios TV (Moyobamba)
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="(NOTICIEROS)",Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
+https://cu.onliv3.com/livevd/user1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
