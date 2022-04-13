@@ -322,7 +322,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/68f89669da2e29ccab89808b3da44231.png" group-title="PERU", Tumpis TV | PE
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 | PE
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png" group-title="PERU", TV Cosmos 15.1 | PE
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png" group-title="PERU", TVPE | PE
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
