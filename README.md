@@ -793,6 +793,16 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESPANA",Popular TV Melilla (720p)
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Muxx.tv
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
+
+
 
 
 
