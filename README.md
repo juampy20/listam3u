@@ -678,6 +678,31 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
 https://cu.onliv3.com/livevd/user1.m3u8
 
+#EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Peru",KBO Quillabamba
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/GrupoLimaLive/picture?width=320&height=320" group-title="(DOCUMENTAL)",LimaLive
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="(MUSICA)",LotPlus TV (Chiclayo)
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="(DOCUMENTAL)",Master TV (Tarapoto)
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="Peru",MaticesTV (Cañete)
+http://v4.tustreaming.cl/matices/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
