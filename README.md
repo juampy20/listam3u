@@ -549,6 +549,80 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1 tvg-id="SiTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Dominican Republic",SiTV (720p)
 http://190.122.104.221/Player/sitv.m3u8
 
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="Dominican Republic",San Isidro TV (720p)
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleCibao.do" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XRxX9IhpJdBoV0UZNy1vSZAI-YRkewjeA1Jbp7VUIUFgGRpM" group-title="(MUSICA)",TeleCibao (720p)
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleunion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="Dominican Republic",Teleunion (480p)
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vallevision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Dominican Republic",Vallevision (720p)
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com8YPXrcX.png" group-title="(MUSICA)",Hechos Ecuador (480p)
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 tvg-id="ParaísoDigital.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",Paraíso Digital (720p)
+https://cloudvideo.servers10.com:8081/8106/index.m3u8
+
+#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="Ecuador",Puruwa TV (720p)
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",TV Universal (Ecuador) (720p)
+https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(TV CRISTIANA)",TV Universal (Ecuador) (720p)
+https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="CABLE-RADIO",Wuan+ (720p)
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",Zaracay TV (720p)
+https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="El Salvador",TribunaTV (614p)
+https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="El Salvador",WOW TV (720p)
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" group-title="(TV CRISTIANA)",Iglesia Del Camino (480p)
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AvivaTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras",Aviva TV (720p)
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
