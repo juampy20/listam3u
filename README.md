@@ -336,7 +336,8 @@ https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="DEPORTES" , NBA
 https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="DEPORTES" , NBA 2
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/chunks.m3u8
 
 
 
