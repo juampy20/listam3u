@@ -366,6 +366,84 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=stream.oursnetwork
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="TURF",Hipódromo de las Américas (480p)
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Mexico",Mexiquense TV (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Mexico",Moovimex (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="POPTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" group-title="MUSICA",POP TV (542p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1qrh5SC.png" group-title="Mexico",RCG TV (1080p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="Mexico",RTQ Queretaro (360p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Mexico",TELE SISTEMA CANAL 9 (720p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV.Unam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxxROZI.png" group-title="Mexico",TV Unam (720p)
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Mexico",TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MUSICA",TVP (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPCuliacán.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iuaYGK2.png" group-title="Mexico",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Mexico",TVP Los Mochis (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="CABLE",Argentinísima Satelital (576p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CABLE",CINE.AR (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NOTICIEROS",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="CABLE",El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CABLE",GenTV (720p)
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="USA",Top Gear (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGSa534f63f000850cdd7/master.m3u8?
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="DEPORTES",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
