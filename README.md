@@ -423,55 +423,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356adv
 #EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="DEPORTES",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Andorra",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="Bolivia",Bolivia TV (720p)
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Chile",ITV Patagonia (720p)
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="Chile",Thema Televisión (La Serena) (720p)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV5Linares.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Chile",TV5 Linares (720p)
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="TVPop.cl" tvg-country="CL" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" group-title="Chile",TV Pop (720p)
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 
 
