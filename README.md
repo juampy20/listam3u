@@ -363,6 +363,12 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=204.12.211.210:1935
 #EXTINF:-1 tvg-id="CortTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g6ABkaV.png" group-title="Mexico",CorTV (800p)
 http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="TURF",Hipódromo de las Américas (480p)
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
+
+
+
 
 
 
