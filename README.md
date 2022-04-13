@@ -522,6 +522,45 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Dominican Republic",DAN TV (720p)
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Dominican Republic",GDMTV (720p)
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hits360TV.do" tvg-country="DO" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="(MUSICA)",Hits 360 TV (720p)
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegavisionCanal43.do" tvg-country="DO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png" group-title="Dominican Republic",Megavision Canal 43 (480p)
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Microvision10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Dominican Republic",Microvision 10 (720p)
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORBITTV.do" tvg-country="DO" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Dominican Republic",ORBIT TV (480p)
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PH.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Dominican Republic",PH (720p)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="Dominican Republic",Punta Cana TV (720p)
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNN.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="(NOTICIEROS)",RNN (720p)
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SiTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Dominican Republic",SiTV (720p)
+http://190.122.104.221/Player/sitv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
