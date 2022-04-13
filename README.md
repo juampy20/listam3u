@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="CABLE" , EL TRECE HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="CABLE" , TELEFE HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/americatv_.png" group-title="CABLE" , AMERICA HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/americatv_.png" group-title="(CABLE)" , AMERICA HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="CABLE" , EL NUEVE HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="NOTICIEROS" , CANAL 26 HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
 https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hyh_.png" group-title="DOCUMENTAL" , DISCOVERY HYH HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hyh_.png" group-title="(DOCUMENTAL)" , DISCOVERY HYH HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="DOCUMENTAL" , TLC
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="(DOCUMENTAL)" , TLC
 https://edge4-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/id_.png" group-title="DOCUMENTAL" , ID
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/id_.png" group-title="(DOCUMENTAL)" , ID
 https://edge4-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="DOCUMENTAL" , DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="(DOCUMENTAL)" , DISCOVERY HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/turbo_.png" group-title="DOCUMENTAL" , DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/turbo_.png" group-title="(DOCUMENTAL)" , DISCOVERY TURBO
 https://edge4-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history_.png" group-title="DOCUMENTAL" , HISTORY HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history_.png" group-title="(DOCUMENTAL)" , HISTORY HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history2_.png" group-title="DOCUMENTAL" , HISTORY 2
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history2_.png" group-title="(DOCUMENTAL)" , HISTORY 2
 https://edge4-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeowild_.png" group-title="DOCUMENTAL" , NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeowild_.png" group-title="(DOCUMENTAL)" , NAT GEO WILD HD
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/animalplanet_.png" group-title="DOCUMENTAL" , ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/animalplanet_.png" group-title="(DOCUMENTAL)" , ANIMAL PLANET
 https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="DOCUMENTAL" , NATGEO HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , NATGEO HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="SERIES" , WARNER HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="(SERIES)" , WARNER HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/sony_.png" group-title="SERIES" , SONY HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/sony_.png" group-title="(SERIES)" , SONY HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fox_.png" group-title="CINE" , FOX CHANELL HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
