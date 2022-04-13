@@ -573,7 +573,7 @@ https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",TV Universal (Ecuador) (720p)
 https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CRISTIANA",TV Universal (Ecuador) (720p)
+#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(TV CRISTIANA)",TV Universal (Ecuador) (720p)
 https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WuanPlus.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="CABLE-RADIO",Wuan+ (720p)
