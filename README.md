@@ -594,6 +594,48 @@ http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivaTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras",Aviva TV (720p)
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-country="HN" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras",Campus TV (360p)
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="Honduras",Cholusat Sur 36 (214p)
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="Honduras",LTV (720p)
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SercanoTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(NOTICIEROS)",Sercano TV (720p)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleProgreso.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NKCF5qs.png" group-title="Honduras",TeleProgreso (720p)
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TENCanal10.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Honduras",TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TSI.hn" tvg-country="HN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU" group-title="Honduras",TSI (720p)
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="PERU",TV Perú Internacional (720p)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
