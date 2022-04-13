@@ -753,6 +753,38 @@ https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal25TV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="ESPANA",Canal 25 TV (Barbastro)
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Canal56.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESPANA",Canal 56 (576p)
+https://videos.canal56.com/directe/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2000LaSolana.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESPANA",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+
+https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESPANA",Canal Sierra de Cádiz (1080p)
+http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+
+#EXTINF:-1 tvg-id="CanalSuper3.es" tvg-country="ES" tvg-logo="https://i.imgur.com/kbgoyvg.png" group-title="ESPANA",Canal Super 3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro4TVVallUxa.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUVLq8nJbqLUY6jVbJvX0VMaoj1HVYu-OKg&usqp=CAU" group-title="ESPANA",Cuatro 4 TV Vall Uxa (1080p)
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
