@@ -823,6 +823,11 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNowEvent4.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 4 (720p)
 https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 
+#EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+
+
+
 
 
 
