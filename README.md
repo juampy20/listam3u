@@ -826,6 +826,10 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="(POKER TOUR EN VIVO)",World Poker Tour (1080p)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+
 
 
 
