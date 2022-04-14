@@ -811,6 +811,21 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="(DEPORTES)",Bek Sports West (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NBCNewsNowEvent1.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 1 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNowEvent2.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 2 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNowEvent3.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 3 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNowEvent4.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 4 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+
+
+
+
 
 
 
