@@ -857,6 +857,10 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=cdn2.ujjina.com:193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: TEN CANAL 10
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="(DEPORTES)",MX: UTDN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7xSOFtzm_HQvoWCHZdTGfg&expires=1649981826&ip=45.7.209.199
+
+
 
 
 
