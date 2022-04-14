@@ -805,6 +805,17 @@ https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlis
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)",NBA 3
 https://d1k4ybyeycgihx.cloudfront.net/hls/espn/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="(DEPORTES)",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="(DEPORTES)",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+
+
+
+
+
 
 
 
