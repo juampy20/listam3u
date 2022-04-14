@@ -802,7 +802,7 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Muxx.tv
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
 
-EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)",NBA 3
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)",NBA 3
 https://d1k4ybyeycgihx.cloudfront.net/hls/espn/chunks.m3u8
 
 
