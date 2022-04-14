@@ -830,6 +830,38 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MULTIMEDIOS GUADALAJARA
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_1200/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="MEXICO",MX: Multimedios Laguna
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MULTIMEDIOS LAGUNA
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="MEXICO",MX: Multimedios Monterrey
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MULTIMEDIOS MONTERREY
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO",MX: Multimedios Monterrey HD
+http://tvpremiumhd.club/lista-gratuita/224008/on/iptv.php?id=mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MUNDO MAS
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: OVACION
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: TEN CANAL 10
+http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+
+
+
+
+
 
 
 
