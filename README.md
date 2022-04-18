@@ -41,6 +41,9 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , CINEMAX
 https://edge4-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , STAR CHANELL
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/paramount_.png" group-title="(CINE)" , PARAMOUNT HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tnt_.png" group-title="(CINE)" , TNT HD
@@ -859,6 +862,7 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.c
 
 #EXTINF:-1 tvg-logo="-" group-title="(DEPORTES)",MX: UTDN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7xSOFtzm_HQvoWCHZdTGfg&expires=1649981826&ip=45.7.209.199
+
 
 
 
