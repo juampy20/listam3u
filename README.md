@@ -41,9 +41,8 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , CINEMAX
 https://edge4-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , STAR CHANELL
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/starchannel_.png" group-title="(CINE)" , STAR CHANELL
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/paramount_.png" group-title="(CINE)" , PARAMOUNT HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tnt_.png" group-title="(CINE)" , TNT HD
