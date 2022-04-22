@@ -863,7 +863,8 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.c
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7xSOFtzm_HQvoWCHZdTGfg&expires=1649981826&ip=45.7.209.199
 
 #EXTINF:-1 tvg-logo="-" group-title="(telemundo)",telemundo
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/48_.m3u8?token=fTCce79GbEE9vAt9IAFe8Q&expires=1650597423&ip=45.7.209.199
+https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
 
 
 
