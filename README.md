@@ -866,6 +866,9 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7xSOFtzm_HQvoW
 https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="-" group-title="(DEPORTES)",directv
+https://chupa3.site/live/flowitc91zh.m3u8
+
 
 
 
