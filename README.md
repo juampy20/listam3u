@@ -859,15 +859,13 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=cdn2.ujjina.com:193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: TEN CANAL 10
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="(DEPORTES)",MX: UTDN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7xSOFtzm_HQvoWCHZdTGfg&expires=1649981826&ip=45.7.209.199
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(telemundo)",telemundo
 https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="-" group-title="(DEPORTES)",directv
-https://chupa3.site/live/flowitc91zh.m3u8
+
+
+
 
 
 
