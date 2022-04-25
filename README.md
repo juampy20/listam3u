@@ -862,56 +862,57 @@ http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.c
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(telemundo)",telemundo
 https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
-﻿#EXTINF:-1, tvg-logo="-" group-title="DEPORTES", beIN SPORTS PREMIUM 1
+﻿#EXTINF:-1, tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS PREMIUM 1
 http://free.tv1.live/star7live/LZENQZuGKM/7873
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS PREMIUM 2
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS PREMIUM 2
 http://free.tv1.live/star7live/LZENQZuGKM/7874
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS PREMIUM 3
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS PREMIUM 3
 http://free.tv1.live/star7live/LZENQZuGKM/7875
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 1
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 1
 http://free.tv1.live/star7live/LZENQZuGKM/7876
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 2
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 2
 http://free.tv1.live/star7live/LZENQZuGKM/7877
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 3
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 3
 http://free.tv1.live/star7live/LZENQZuGKM/7878
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 4
-
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 4
 http://free.tv1.live/star7live/LZENQZuGKM/7879
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 5
+
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 5
 http://free.tv1.live/star7live/LZENQZuGKM/7880
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 6
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 6
 http://free.tv1.live/star7live/LZENQZuGKM/7881
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN SPORTS 7
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN SPORTS 7
 http://free.tv1.live/star7live/LZENQZuGKM/7882
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN xtra1
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN xtra1
 http://free.tv1.live/star7live/LZENQZuGKM/7885
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN xtra2
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN xtra2
 http://free.tv1.live/star7live/LZENQZuGKM/7886
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN eng1
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN eng1
 http://free.tv1.live/star7live/LZENQZuGKM/7890
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN eng2
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN eng2
 http://free.tv1.live/star7live/LZENQZuGKM/7891
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN eng3
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN eng3
 http://free.tv1.live/star7live/LZENQZuGKM/7892
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN fr1
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN fr1
 http://free.tv1.live/star7live/LZENQZuGKM/7895
 
-#EXTINF:-1,tvg-logo="-" group-title="DEPORTES", beIN fr2
+#EXTINF:-1,tvg-logo="-" group-title="(DEPORTES)", beIN fr2
 http://free.tv1.live/star7live/LZENQZuGKM/7896
+
 
 
 
