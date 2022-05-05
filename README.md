@@ -872,10 +872,34 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://v3.soft4game.com/n1/stream131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 2
-https://v3.soft4game.com/n1/stream133/playlist.m3u8
+https://v3.soft4game.com/n1/stream132/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 3
-https://v3.soft4game.com/o1/stream132/playlist.m3u8
+https://v3.soft4game.com/o1/stream133/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 4
+https://v3.soft4game.com/o1/stream134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 5
+https://v3.soft4game.com/o1/stream135/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 6
+https://v3.soft4game.com/o1/stream136/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 7
+https://v3.soft4game.com/o1/stream137/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 8
+https://v3.soft4game.com/o1/stream138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 9
+https://v3.soft4game.com/o1/stream139/playlist.m3u8
+
+
+
+
+
+
 
 
 
