@@ -884,16 +884,16 @@ https://v3.soft4game.com/o1/stream134/playlist.m3u8
 https://v3.soft4game.com/o1/stream135/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 6
-https://v3.soft4game.com/o1/stream130/playlist.m3u8
+https://v3.soft4game.com/o1/stream30/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 7
-https://v3.soft4game.com/o1/stream129/playlist.m3u8
+https://v3.soft4game.com/o1/stream31/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 8
-https://v3.soft4game.com/o1/stream128/playlist.m3u8
+https://v3.soft4game.com/o1/stream32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 9
-https://v3.soft4game.com/o1/stream127/playlist.m3u8
+https://v3.soft4game.com/o1/stream33/playlist.m3u8
 
 
 
