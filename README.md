@@ -868,32 +868,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 1
-https://v3.soft4game.com/n1/stream131/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 2
-https://v3.soft4game.com/n1/stream132/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 3
-https://v3.soft4game.com/o1/stream133/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 4
-https://v3.soft4game.com/o1/stream134/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 5
-https://v3.soft4game.com/o1/stream135/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 6
-https://v3.soft4game.com/o1/stream30/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 7
-https://v3.soft4game.com/o1/stream31/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 8
-https://v3.soft4game.com/o1/stream163/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , BET DEPORTIVA 9
-https://v3.soft4game.com/o1/stream164/playlist.m3u8
 
 
 
