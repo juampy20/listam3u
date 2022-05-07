@@ -868,6 +868,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",eeuu NBA (720p)
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/chunks.m3u8
+
 
 
 
