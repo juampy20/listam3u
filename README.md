@@ -871,7 +871,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="--" group-title="(DEPORTES)", NBA 2 opc2 
-https://d1k4ybyeycgihx.cloudfront.net/hls/espn/chunks.m3u8
+https://hlslive-akc-ewr1.media.mlb.com/hdnts=exp=1652382684~acl=/*~id=00u7ecrethyiiqrjz356~data=f746832b-3a0b-43a1-b4bb-5cac0ec48fb4~hmac=89760f1d05396af6452048593dfb5be7d35349fb0581cbf26cf672b8d5bf7dd9/7f675a9d76f9881ac3ac7c65e79e949d/va01/mlb/2022/05/11/Home_VIDEO_eng_Philadelphia_Phillies_Sea_20220511_1652290859030/3500K/3500_complete_gdfp.m3u8
 
 
 
