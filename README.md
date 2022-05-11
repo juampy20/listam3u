@@ -337,12 +337,6 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="PERU" , Uranio TV | PE
 https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA
-https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA opc2
-https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/chunks.m3u8
-
 #EXTINF:-1 tvg-id="AlcarriaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",Alcarria TV (576p)
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=217.182.77.27/live/alcarriatv-livestream.m3u8
 
@@ -871,7 +865,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="--" group-title="(DEPORTES)", NBA 2 opc2 
-https://www.webcsn.ru.com/cdn/premium338/chunks.m3u8
+https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA
+---
+
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA opc2
+---
 
 
 
