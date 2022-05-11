@@ -871,7 +871,7 @@ https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
 ---
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
----
+https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
 
 
 
