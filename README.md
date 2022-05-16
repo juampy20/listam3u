@@ -313,29 +313,6 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="PERU" , Uranio TV | PE
 https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Mexico",Canal 10 Cancún (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="TURF",Hipódromo de las Américas (480p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Mexico",Mexiquense TV (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Mexico",Moovimex (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="POPTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" group-title="(MUSICA)",POP TV (542p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1qrh5SC.png" group-title="Mexico",RCG TV (1080p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="Mexico",RTQ Queretaro (360p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-
-#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Mexico",TELE SISTEMA CANAL 9 (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV.Unam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxxROZI.png" group-title="Mexico",TV Unam (720p)
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 
@@ -350,9 +327,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Mexico",TVP Los Mochis (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="(CABLE)",Argentinísima Satelital (576p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="(CABLE)",CINE.AR (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -369,9 +343,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-id="TopGear.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="USA",Top Gear (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGSa534f63f000850cdd7/master.m3u8?
-
 #EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="(DEPORTES)",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
@@ -383,12 +354,6 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Chile",ITV Patagonia (720p)
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.thematelevision.cl/wp-content/uploads/2016/02/LOGO1.png" group-title="Chile",Thema Televisión (La Serena) (720p)
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV5Linares.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Chile",TV5 Linares (720p)
-https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-country="CL" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" group-title="Chile",TV Pop (720p)
 https://v4.tustreaming.cl/poptv/playlist.m3u8
