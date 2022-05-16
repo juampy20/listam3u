@@ -25,8 +25,6 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTu
 https://edge4-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history2_.png" group-title="(DOCUMENTAL)" , HISTORY 2
 https://edge4-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeowild_.png" group-title="(DOCUMENTAL)" , NAT GEO WILD HD
-https://edge-vod02-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/animalplanet_.png" group-title="(DOCUMENTAL)" , ANIMAL PLANET
 https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , NATGEO HD
@@ -69,8 +67,6 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChan
 https://edge4-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/disneyxd_.png" group-title="(INFANTIL)" , DISNEY XD
 https://edge4-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeokids_.png" group-title="(INFANTIL)" , NATGEO KIDS
-https://edge4-sl.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/nick_.png" group-title="(INFANTIL)" , NICK
 https://edge4-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/nickjr_.png" group-title="(INFANTIL)" , NICK JUNIOR
@@ -129,8 +125,6 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gtoRKARu6b0/YVMjaJMOa9I/AAAAAAAAQ-0/df3tjk_1GVkHA-bXCvmmyeMy5Hv7ILIeQCLcBGAsYHQ/w138-h122/Doce%2BMisiones%2Ben%2Bvivo.jpg" group-title="(CABLE)" , DOCE MISIONES
-https://g2.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="(CABLE)" , MULTIVISION
@@ -167,8 +161,6 @@ https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa6427
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w277040424.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="(CABLE)" , TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-H_0JWy_CLyg/YVSRWB7HnwI/AAAAAAAARCg/6I4CYuPpwUIccBudT6e1GurPvkMDcwdlgCLcBGAsYHQ/w131-h131/El%2BTres%2BRosario%2Ben%2Bvivo.jpg" group-title="(CABLE)" , ROSARIO
-https://g3.mc-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_240p.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png" group-title="(CABLE)" , 34 SAN JUAN
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 13 SAN LUIS
@@ -199,8 +191,6 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w558520804_DVR
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFnhEZ0HsIulNlD4BYm6AxKxwko6tvg_NMxyF4HxqYBhvq45iYwo0YHkW7ALsR2Od_YS4wTUwLOgu8Y7DhaIuU7Vl0ZVKNHGvr-0ACIYXd5UpgSdjiH7B5Yg2RBSoOlnw27RWybBDWUNJPoC78IwytWhz0MajIPDE6qneSkjik52_MOLaFIYDqZOxbZA=w171-h155" group-title="Mexico" , MAR LA PAZ
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1488383989_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjENh-yhIj8f8CFWSxetQslBHAGVgBzOOZ6YH-YISb3lpOto76KABGiDkYO1nLoFu7owWRwZ3LbMcXg4Ie7zD6SRPh1cXxHGhncEAtSV7xnFVFPFl9fCMLAMQiPVcVDctkFNlSkwNXGJyNro5PZ2npa80ZVSWZxHboyd0Kuz85Kr_DWql-paiyMWNlvXQ=w127-h127" group-title="Mexico" , MEXICO TRAVEL
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb2eq9sQr1VdV7Qoif3Po1A)/dm/3/x7v76vf/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="(DOCUMENTAL)" , CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-k7OZEYqHOxQ/YEUCu3-EJ3I/AAAAAAABAiM/nk37wJolUJ0y3pXlMJ3tvIznRyBGrqZKgCK8BGAsYHg/s512/2021-03-07.png" group-title="COLOMBIA", Canal Capital | CO
