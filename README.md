@@ -197,12 +197,8 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA", Canal CNC Medellin | CO
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="118" tvg-name="Canal Doce Sincelejo" tvg-logo="https://lh3.googleusercontent.com/-ERdsJLzILbw/Xzgg1nFfrII/AAAAAAAA4Xs/7-F-ChjTvCII5R33mD4ef3Tb75BkfZUOwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Canal Doce Sincelejo | CO
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="120" tvg-name="Canal Institucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Canal Institucional | CO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA", Canal Trece | CO
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA", Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA", Caracol | CO
@@ -245,9 +241,6 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png" group-title="PERU", + Listas en M3U.CL * | CL
-https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" group-title="PERU", DMJ * | PE
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
@@ -298,16 +291,12 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" group-title="PERU", Genios TV | PE
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="PERU", Hechicera TV | PE
-https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/b91d1d32717de76dbab8660766b12629.png" group-title="PERU", Huacho Peru TV | PE
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-mZYPPkr3lEM/Xz8nJ5U-KDI/AAAAAAAA4tY/eHsF8i1WgCUkVCYv0uwTns3hLJJBKA2vwCK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", JN19 | PE
 https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ubba7Fazm30/XoKEe8ipZUI/AAAAAAAAxVg/eijnSgeRNh0-NC9FCmLK4kGJxVnVjYZwQCK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", Monterrico TV | PE
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="PERU", OK TeVe | PE
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png" group-title="PERU", Ovacion | PE
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png" group-title="PERU", Panamericana | PE
@@ -322,35 +311,10 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png" group-title="PERU", TVperuanisima | PE
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-a6-jFincYx4/XoKGQM0oJWI/AAAAAAAAxWA/JPXlKZwqMPE26VLeUAg9y0wBYOfSIGotwCK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", Unitel | PE
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="PERU" , Uranio TV | PE
 https://live.obslivestream.com/uraniomux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="AlcarriaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",Alcarria TV (576p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=217.182.77.27/live/alcarriatv-livestream.m3u8
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Mexico",Canal 10 Cancún (720p)
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Mexico",Canal 44 Chihuahua (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Mexico",Canal Catorce (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
-#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Mexico",Capital 21
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=video.cdmx.gob.mx/livestream/stream.m3u8
-
-#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Mexico",Conecta TV (720p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CortTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g6ABkaV.png" group-title="Mexico",CorTV (800p)
-http://tvpremiumhd.club/lista-gratuita/224008/on/lives.php?id=stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="TURF",Hipódromo de las Américas (480p)
 http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 
