@@ -427,9 +427,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="Costa Rica",Tele Uno (720p)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="(NOTICIEROS)",Tele Uno (720p)
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-country="CR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-pLqFOvp-6R_dr9whF_Q5IBLtvtRcMjOY2xmROz5zFlIu7Y88Q&s" group-title="Costa Rica",TV Sur Canal 9 (480p)
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
@@ -454,23 +451,11 @@ http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-country="DO" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Dominican Republic",ORBIT TV (480p)
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PH.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Dominican Republic",PH (720p)
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="Dominican Republic",Punta Cana TV (720p)
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RNN.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="(NOTICIEROS)",RNN (720p)
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SiTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Dominican Republic",SiTV (720p)
-http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="Dominican Republic",San Isidro TV (720p)
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleCibao.do" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XRxX9IhpJdBoV0UZNy1vSZAI-YRkewjeA1Jbp7VUIUFgGRpM" group-title="(MUSICA)",TeleCibao (720p)
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="Dominican Republic",Teleunion (480p)
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
@@ -487,20 +472,8 @@ https://cloudvideo.servers10.com:8081/8106/index.m3u8
 #EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="Ecuador",Puruwa TV (720p)
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",TV Universal (Ecuador) (720p)
-https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVUniversal.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(TV CRISTIANA)",TV Universal (Ecuador) (720p)
-https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WuanPlus.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="CABLE-RADIO",Wuan+ (720p)
 https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",Zaracay TV (720p)
-https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="El Salvador",TribunaTV (614p)
-https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="El Salvador",WOW TV (720p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -508,14 +481,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" group-title="(TV CRISTIANA)",Iglesia Del Camino (480p)
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AvivaTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras",Aviva TV (720p)
-https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-country="HN" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras",Campus TV (360p)
 http://st2.worldkast.com/8004/8004/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="Honduras",Cholusat Sur 36 (214p)
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="Honduras",LTV (720p)
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
@@ -531,9 +498,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSI.hn" tvg-country="HN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU" group-title="Honduras",TSI (720p)
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="PERU",TV Perú Internacional (720p)
-http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
