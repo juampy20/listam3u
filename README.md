@@ -502,9 +502,6 @@ https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/60566
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 tvg-id="FarraPlay.py" tvg-country="PY" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Farra Play (238p)
-http://159.203.148.226/live/farra.m3u8
-
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-country="PY" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Paraguay",Trece Paraguay (720p)
 http://174.138.118.252/live/trece.m3u8
 
@@ -523,23 +520,11 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" group-title="Peru",Canal 8 (Catacaos)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-id="CanalEvelyn.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320" group-title="Peru",Canal E (Evelyn) (Nororiente)
-https://srv1.mediastreamperu.com:8081/8004/index.m3u8
-
-#EXTINF:-1 tvg-id="CANALIPE.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="(MUSICA)",CANAL IPE
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Peru",Chicos IPe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
 #EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="Peru",ClipsTV (Ica)
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 
 #EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Peru",CR Television (Moyobamba)
 https://live.obslivestream.com/crtvmux/index.m3u8
-
-#EXTINF:-1 tvg-id="CreoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalCreoTv/picture?width=320&height=320" group-title="Peru",CreoTV (Cajamarca)
-https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Peru",Cultura 24 (720p)
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -583,14 +568,8 @@ http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="Peru",Sol Stereo TV (Casma)
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="Peru",Sumac TV (Lima)
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperCanalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="(MUSICA)",Super Canal (Yurimaguas)
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="(MUSICA)",Top Latino TV (404p)
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
@@ -609,9 +588,6 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="Peru",TV Peruanísima (720p)
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USILTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/usiltv/picture?width=320&height=320" group-title="Peru",USIL TV
-https://video.produccionesmagicorp.com/redes/video.m3u8
 
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
@@ -656,17 +632,11 @@ https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="ESPANA",Hamaika Telebista (1080p)
-https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="InteralmeriaTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="ESPANA",Interalmeria TV (1080p)
 https://interalmeria.tv/directo/live.m3u8
 
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="ESPANA",Logos TV (1080p)
 http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NoroesteTV.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESPANA",Noroeste TV (720p)
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESPANA",Popular TV Cantabria (512p)
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
@@ -679,15 +649,6 @@ http://s02.diazol.hu:10192/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Muxx.tv
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="(DEPORTES)",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="(DEPORTES)",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNowEvent1.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="USA",NBC News Now Event 1 (720p)
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
@@ -706,34 +667,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="(POKER TOUR EN VIVO)",World Poker Tour (1080p)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: MULTIMEDIOS GUADALAJARA
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_1200/5c54d38ca392a5119bb0aa0d.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="Mexico",MX: Multimedios Laguna
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: MULTIMEDIOS LAGUNA
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="Mexico",MX: Multimedios Monterrey
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: MULTIMEDIOS MONTERREY
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="Mexico",MX: Multimedios Monterrey HD
-http://tvpremiumhd.club/lista-gratuita/224008/on/iptv.php?id=mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: MUNDO MAS
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: OVACION
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="Mexico",MX: TEN CANAL 10
-http://tvpremiumhd.club/lista-gratuita/224008/on/live.php?id=stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(telemundo)",telemundo
 https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
