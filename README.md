@@ -700,6 +700,11 @@ https://demf1kf3itpt4.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , LA PASION DE CRISTO
 https://seed-us1.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/dr1odz346lnudhi3atugf2pbr2pnd0qtt8enpfn.mp4/master.m3u8
 
+#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , DIOS  NO ESTA MUERTO
+https://seed-us3.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/um8fboy0y59vtky153sbpxk5a1s3bv0roi9ijym.mp4/index-v1-a1.m3u8
+
+
+
 
 
 
