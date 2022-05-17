@@ -706,6 +706,12 @@ https://seed-us3.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/um8fboy0y59vtky153sbpxk5a1s
 #EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , MANOS MILAGROSAS
 https://seed-us2.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/nak41xnvxlcde58qjelni81g22dd09bk0bkzuqn.mp4/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" ,HASTA EL ULTIMO HOMBRE
+https://eltuboadventista.com/mobile/files/videos/2019/06/09/huh.mp4
+
+
+
+
 
 
 
