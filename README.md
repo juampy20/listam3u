@@ -703,6 +703,11 @@ https://seed-us1.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/dr1odz346lnudhi3atugf2pbr2p
 #EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , DIOS  NO ESTA MUERTO
 https://seed-us3.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/um8fboy0y59vtky153sbpxk5a1s3bv0roi9ijym.mp4/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , MANOS MILAGROSAS
+https://seed-us2.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/nak41xnvxlcde58qjelni81g22dd09bk0bkzuqn.mp4/index-v1-a1.m3u8
+
+
+
 
 
 
