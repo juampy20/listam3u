@@ -689,7 +689,8 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , eventos especiales
+https://stream-us.konduit.live/main/R4X59B52VUMO14SS_source/index.m3u8
 
 
 
