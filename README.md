@@ -681,7 +681,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://d1agn6yv8q3970.cloudfront.net/hls/abc/chunks.m3u8
 
 #EXTINF:-1   tvg-logo="--" group-title="(DEPORTES)", NBA 2 (opc2)
-https://demf1kf3itpt4.cloudfront.net/hls/abc/playlist.m3u8
+https://d1agn6yv8q3970.cloudfront.net/hls/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
@@ -690,7 +690,7 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/basketball-picture-id170096587?k=20&m=170096587&s=612x612&w=0&h=Umu6ELi7aPSpCPE7hMPKWVYZUoRfdNek2ieBI5RrCCs=" group-title="(DEPORTES)" , eventos especiales
-https://d1agn6yv8q3970.cloudfront.net/hls/abc/chunks.m3u8
+
 
 
 
