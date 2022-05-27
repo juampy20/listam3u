@@ -692,11 +692,11 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/La_Voz_%28Mexican_TV%29.png" group-title="(LA VOZ KIDS ESPAÑA)" , eventos especiales
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3
+https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3 (op 2)
+https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 
 
 
