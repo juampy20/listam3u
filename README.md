@@ -692,6 +692,9 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/basketball-picture-id170096587?k=20&m=170096587&s=612x612&w=0&h=Umu6ELi7aPSpCPE7hMPKWVYZUoRfdNek2ieBI5RrCCs=" group-title="(DEPORTES)" , eventos especiales
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/basketball-picture-id170096587?k=20&m=170096587&s=612x612&w=0&h=Umu6ELi7aPSpCPE7hMPKWVYZUoRfdNek2ieBI5RrCCs=" group-title="(DEPORTES)" , eventos especiales
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
 
 
 
