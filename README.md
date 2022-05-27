@@ -689,7 +689,7 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/basketball-picture-id170096587?k=20&m=170096587&s=612x612&w=0&h=Umu6ELi7aPSpCPE7hMPKWVYZUoRfdNek2ieBI5RrCCs=" group-title="(LA VOZ KIDS ESPAÑA)" , eventos especiales
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/La_Voz_%28Mexican_TV%29.png" group-title="(LA VOZ KIDS ESPAÑA)" , eventos especiales
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
