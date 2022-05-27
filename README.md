@@ -690,7 +690,7 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/basketball-picture-id170096587?k=20&m=170096587&s=612x612&w=0&h=Umu6ELi7aPSpCPE7hMPKWVYZUoRfdNek2ieBI5RrCCs=" group-title="(DEPORTES)" , eventos especiales
-https://d1agn6yv8q3970.cloudfront.net/hls/NBA/chunks.m3u8
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
 
@@ -711,11 +711,6 @@ https://seed-us3.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/um8fboy0y59vtky153sbpxk5a1s
 #EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , MANOS MILAGROSAS
 https://seed-us2.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/nak41xnvxlcde58qjelni81g22dd09bk0bkzuqn.mp4/index-v1-a1.m3u8
 
-#EXTINF:1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" ,HASTA EL ULTIMO HOMBRE
-https://eltuboadventista.com/mobile/files/videos/2019/06/09/huh.mp4
-
-#EXTINF:1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" ,INDIANA JONES EN BUSCA DEL ARCA PERDIDA
-https://www289.ff-01.com/token=p9DBw1znznpkM45pk4BGVw/1652842540/45.7.0.0/44/8/20/132075af569a0276609756be4d9cd208-480p.mp4
 
 
 
