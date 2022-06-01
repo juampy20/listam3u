@@ -43,6 +43,8 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fox_.png" group-title="(CINE)" , FOX CHANELL HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/space.png" group-title="(CINE)" , SPACE
+https://edge2-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , AXN HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cinecanal_.png" group-title="(CINE)" , CINECANAL HD
