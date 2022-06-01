@@ -664,8 +664,11 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="(Lifestyle)",World Fashion Channel (1080p)
+#EXTINF:-1   tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="(Lifestyle)",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+#EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/trutv.png" group-title="(Lifestyle)",TRU TV
+https://edge2-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d1agn6yv8q3970.cloudfront.net/hls/abc/chunks.m3u8
