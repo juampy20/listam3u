@@ -516,34 +516,34 @@ http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 
-#EXTINF:-1 tvg-id="AuténticaTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru",Auténtica Televisión (720p)
+#EXTINF:-1 tvg-id="AuténticaTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",Auténtica Televisión (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/2135035553436599/picture?width=320&height=320" group-title="Peru",Bella Abanquina TV (Apurimac)
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/2135035553436599/picture?width=320&height=320" group-title="PERU",Bella Abanquina TV (Apurimac)
 https://v4.tustreaming.cl/bellatv/index.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Peru",BHTV (720p)
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="PERU",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" group-title="Peru",Canal 8 (Catacaos)
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" group-title="PERU",Canal 8 (Catacaos)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="Peru",ClipsTV (Ica)
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="PERU",ClipsTV (Ica)
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Peru",CR Television (Moyobamba)
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="PERU",CR Television (Moyobamba)
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Peru",Cultura 24 (720p)
+#EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="PERU",Cultura 24 (720p)
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="(MUSICA)",DMJ (Cuzco)
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="Peru",Exitosa TV (720p)
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="PERU",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Peru",Genios TV (Moyobamba)
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="PERU",Genios TV (Moyobamba)
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="(NOTICIEROS)",Identidad TV
@@ -552,7 +552,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
 https://cu.onliv3.com/livevd/user1.m3u8
 
-#EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Peru",KBO Quillabamba
+#EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="PERU",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
 #EXTINF:-1 tvg-id="LimaLive.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/GrupoLimaLive/picture?width=320&height=320" group-title="(DOCUMENTAL)",LimaLive
@@ -564,19 +564,19 @@ https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="(DOCUMENTAL)",Master TV (Tarapoto)
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="Peru",MaticesTV (Cañete)
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="PERU",MaticesTV (Cañete)
 http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="(MUSICA)",Planeta TV Moyobamba (720p)
 https://live.obslivestream.com/planetatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="Quillavision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" group-title="Peru",Quillavision (Cuzco)
+#EXTINF:-1 tvg-id="Quillavision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" group-title="PERU",Quillavision (Cuzco)
 http://v4.tustreaming.cl/quillavision/index.m3u8
 
 #EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="Peru",Sumac TV (Lima)
+#EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="PERU",Sumac TV (Lima)
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="(MUSICA)",Top Latino TV (404p)
@@ -588,13 +588,13 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="(NOTICIEROS)",TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Noticias.TvPalmeras/picture?width=320&height=320" group-title="Peru",TV Palmeras
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Noticias.TvPalmeras/picture?width=320&height=320" group-title="PERU",TV Palmeras
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Peru",TV Perú
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="PERU",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="Peru",TV Peruanísima (720p)
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="PERU",TV Peruanísima (720p)
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
