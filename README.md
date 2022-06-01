@@ -15,6 +15,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="(DOCUMENTAL)" , TLC
 https://edge4-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryworl.png" group-title="(DOCUMENTAL)" , DISCOVERY WORLD HD
+https://edge2-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/id_.png" group-title="(DOCUMENTAL)" , ID
 https://edge4-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="(DOCUMENTAL)" , DISCOVERY HD
