@@ -11,7 +11,7 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://edge2-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
 https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
-EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tn.png" group-title="(NOTICIEROS)" , TN HD
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tn.png" group-title="(NOTICIEROS)" , TN HD
 https://edge2-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hyh_.png" group-title="(DOCUMENTAL)" , DISCOVERY HYH HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
