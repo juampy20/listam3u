@@ -322,7 +322,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="(NOTICIEROS)",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="(DOCUMENTALES)",El Garage TV (480p)
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="(DOCUMENTAL)",El Garage TV (480p)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="(NOTICIEROS)",France 24 Español (576p)
@@ -393,7 +393,7 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="DOCUMENTALES",Punta Cana TV (720p)
+#EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="CABLE EXTERIOR",Punta Cana TV (720p)
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RNN.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="(NOTICIEROS)",RNN (720p)
