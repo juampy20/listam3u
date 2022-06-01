@@ -49,6 +49,8 @@ https://edge2-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentra
 https://edge2-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , AXN HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tcm.png" group-title="(CINE)" , TCM
+https://edge2-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cinecanal_.png" group-title="(CINE)" , CINECANAL HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , CINEMAX
@@ -560,6 +562,7 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3 (op 2)
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
+
 
 
 
