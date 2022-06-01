@@ -521,6 +521,9 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/trutv.png" group-title="(Lifestyle/COCINA)",TRU TV
 https://edge2-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
+#EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/life-time.png" group-title="(Lifestyle/COCINA)",LIFETIME
+https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/food-network.png" group-title="(Lifestyle/COCINA)",FOOD NETWORK
 https://edge2-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
