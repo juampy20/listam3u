@@ -673,10 +673,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="--" group-title="(DEPORTES)", NBA 2 
+#EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d1agn6yv8q3970.cloudfront.net/hls/abc/chunks.m3u8
 
-#EXTINF:-1   tvg-logo="--" group-title="(DEPORTES)", NBA 2 (opc2)
+#EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
 https://d1agn6yv8q3970.cloudfront.net/hls/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1
