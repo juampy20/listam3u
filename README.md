@@ -676,7 +676,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="(POKER TOUR EN VIVO)",World Poker Tour (1080p)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(telemundo)",telemundo
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(TELENOVELAS)",telemundo
 https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
