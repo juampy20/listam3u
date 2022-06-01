@@ -528,6 +528,9 @@ https://edge2-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/life-time.png" group-title="(Lifestyle/COCINA)",LIFETIME
 https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
+#EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/mas-chic.png" group-title="(Lifestyle/COCINA)",MAS CHIC
+https://edge2-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/gourmet.png" group-title="(Lifestyle/COCINA)",EL GOURMET
 https://edge2-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
@@ -555,6 +558,7 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3 (op 2)
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
+
 
 
 
