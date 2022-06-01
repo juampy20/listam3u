@@ -691,8 +691,6 @@ https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/La_Voz_%28Mexican_TV%29.png" group-title="(LA VOZ KIDS ESPAÑA)" , eventos especiales
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
@@ -705,15 +703,6 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , LA PASION DE CRISTO
-https://seed-us1.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/dr1odz346lnudhi3atugf2pbr2pnd0qtt8enpfn.mp4/master.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , DIOS  NO ESTA MUERTO
-https://seed-us3.gloria.tv/4Bf1zD2NzHKcBN82QTj9WCVFq/um8fboy0y59vtky153sbpxk5a1s3bv0roi9ijym.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="---" group-title="(PELICULAS ON DEMAND)" , MANOS MILAGROSAS
-https://seed-us2.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/nak41xnvxlcde58qjelni81g22dd09bk0bkzuqn.mp4/index-v1-a1.m3u8
 
 
 
