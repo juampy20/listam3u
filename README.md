@@ -652,9 +652,6 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",MUSIC +
 http://s02.diazol.hu:10192/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="OTROS",Mundo TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
@@ -667,7 +664,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="(Lifestyle)",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
