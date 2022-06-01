@@ -528,6 +528,9 @@ https://edge2-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/life-time.png" group-title="(Lifestyle/COCINA)",LIFETIME
 https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
+#EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/gourmet.png" group-title="(Lifestyle/COCINA)",EL GOURMET
+https://edge2-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/hgtv.png" group-title="(Lifestyle/COCINA)",HGTV
 https://edge2-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 
