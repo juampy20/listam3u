@@ -372,40 +372,40 @@ https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-country="CL" tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Chile",VTV Valle de Aconcagua (720p)
 http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="Colombia",ATV (Soacha | Cundinamarca)
+#EXTINF:-1 tvg-id="ATV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="COLOMBIA",ATV (Soacha | Cundinamarca)
 https://movil.ejeserver.com/live/verteve.m3u8
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="Colombia",Cali TV (Santiago de Cali | Valle del Cauca) (540p)
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="COLOMBIA",Cali TV (Santiago de Cali | Valle del Cauca) (540p)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="Colombia",Canal 2
+#EXTINF:-1 tvg-id="Canal2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="COLOMBIA",Canal 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 
-#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="Colombia",Canal C (Santiago de Cali | Valle del Cauca) (720p)
+#EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="COLOMBIA",Canal C (Santiago de Cali | Valle del Cauca) (720p)
 https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalDos.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="(MUSICA)",Canal Dos (Yopal | Casanare) (720p)
 http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Colombia",Canal Visión Dorada (720p)
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COLOMBIA",Canal Visión Dorada (720p)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Mi Gente TV (720p)
 https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Colombia",Suram TV (1080p)
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="COLOMBIA",Suram TV (1080p)
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="Colombia",Telepacífico (Santiago de Cali | Valle del Cauca) (720p)
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="COLOMBIA",Telepacífico (Santiago de Cali | Valle del Cauca) (720p)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVGracia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-gracia.jpg" group-title="Colombia",TVGracia (720p)
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-gracia.jpg" group-title="COLOMBIA",TVGracia (720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNGlobal.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(DOCUMENTAL)",TVN Global (614p)
 https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Colombia",UNO PLAY (720p)
+#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="COLOMBIA",UNO PLAY (720p)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal38.cr" tvg-country="CR" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="(MUSICA)",Canal 38 (720p)
