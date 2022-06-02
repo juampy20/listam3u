@@ -566,6 +566,8 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , prueba mpd
+https://edge-live15-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 
 
