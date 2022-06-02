@@ -141,6 +141,7 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
