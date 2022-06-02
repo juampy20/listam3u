@@ -70,7 +70,7 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Unive
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/pasiones_.png" group-title="(TELENOVELAS)" , PASIONES
 https://edge4-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canalestrellas.png" group-title="(TELENOVELAS)" , CANAL DE LAS ESTRELLAS
-https://edge2-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+https://edge4-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/babytv_.png" group-title="(INFANTIL)" , BABY TV
 https://edge4-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/boomerang_.png" group-title="(INFANTIL)" , BOOMERANG
