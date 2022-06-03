@@ -97,6 +97,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/quiero_.png" group-title="(MUSICA)" , QUIERO HD
 https://edge4-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg" group-title="(MUSICA)" , HTV
+https://edge5-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/muchmusic_.png" group-title="(MUSICA)" , MUCH MUSIC
 https://edge4-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cm_.png" group-title="(MUSICA)" , CM
