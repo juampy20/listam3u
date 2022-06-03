@@ -348,7 +348,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
-#EXTINF:-1 tvg-id="VCOnline.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/897eGEd.png" group-title="(MUSICA)",VC Online (546p)
+#EXTINF:-1 tvg-id="VCOnline.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/897eGEd.png" group-title="(Cable Exterior)",VC Online (546p)
 https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 
 
