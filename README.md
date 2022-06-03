@@ -547,6 +547,9 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_G
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/food-network.png" group-title="(Lifestyle/COCINA)",FOOD NETWORK
 https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
+#EXTINF:-1    tvg-logo="https://telecentro.com.ar/img/cm/channels/glitz@2x.png" group-title="(Lifestyle/COCINA)",GLITZ
+https://edge4-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
 
