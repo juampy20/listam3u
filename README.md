@@ -51,7 +51,8 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 13 SAN LUIS
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-
+#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
+https://videohd.live:19360/8010/8010.m3u8
 
 
 
@@ -72,8 +73,10 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="(NOTICIEROS)",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="(NOTICIEROS)",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 
 
@@ -106,16 +109,10 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="(SERIES)" , WARNER HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/sony_.png" group-title="(SERIES)" , SONY HD
 https://edge4-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-
-
-
-
 
 
 
@@ -161,6 +158,8 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboxtreme_.png" group-title="(CINE)" , HBO EXTREME
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="(CINE)",CINE.AR (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 
@@ -199,9 +198,6 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3
 https://edge4-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tooncast_.png" group-title="(INFANTIL)" , TOONCAST
 https://edge4-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
-
-
-
 
 
 
@@ -248,74 +244,52 @@ https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?Play
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT SPORTS HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsportspremium_.png" group-title="(DEPORTES)" , FOX SPORTS PREMIUM HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , FOX SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , FOX SPORTS 2
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports3_.png" group-title="(DEPORTES)" , FOX SPORTS 3
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn_.png" group-title="(DEPORTES)" , ESPN
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn2_.png" group-title="(DEPORTES)" , ESPN 2
 https://edge4-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn3_.png" group-title="(DEPORTES)" , ESPN 3
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn4_.png" group-title="(DEPORTES)" , ESPN 4
 https://edge4-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/deportv_.png" group-title="(DEPORTES)" , DEPORTV
 https://edge4-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title="(DEPORTES)" , TYC SPORTS
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
-
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3 (op 2)
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV
 https://edge4-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV (opc 2)
 https://edge5-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , Eventos
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
-
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="(DEPORTES)",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
 
 
@@ -339,50 +313,13 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Uruguay" , VTV
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="(CINE)",CINE.AR (720p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="(NOTICIEROS)",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="(NOTICIEROS)",France 24 Español (576p)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
-https://videohd.live:19360/8010/8010.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="(POKER TOUR EN VIVO)",World Poker Tour (1080p)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
 
 
 
