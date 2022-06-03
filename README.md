@@ -159,8 +159,7 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboxtreme_.png" group-title="(CINE)" , HBO EXTREME
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-#EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="(CINE)",CINE.AR (720p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
 
 
 
