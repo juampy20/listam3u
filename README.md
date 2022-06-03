@@ -20,6 +20,13 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tn.png" group-title="(NOTICIEROS)" , TN HD
 https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 
 
 
@@ -116,6 +123,10 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3
 https://edge4-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canalestrellas.png" group-title="(TELENOVELAS)" , CANAL DE LAS ESTRELLAS
 https://edge4-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(TELENOVELAS)",telemundo
+https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 
 
@@ -160,6 +171,24 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cm_.png" group-title="(MUSICA)" , CM
 https://edge4-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="(MUSICA)",Top Latino TV (404p)
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" group-title="(MUSICA)",Turbo Mix Radio TV (480p)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Mi Gente TV (720p)
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Hits360TV.do" tvg-country="DO" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="(MUSICA)",Hits 360 TV (720p)
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="(MUSICA)",Planeta TV Moyobamba (720p)
+https://live.obslivestream.com/planetatvmux/index.m3u8
+#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
 
 
@@ -229,6 +258,9 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="(DEPORTES)",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
 
 
@@ -365,92 +397,41 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="(DEPORTES)",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
-#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Mi Gente TV (720p)
-https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Hits360TV.do" tvg-country="DO" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="(MUSICA)",Hits 360 TV (720p)
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
-https://cu.onliv3.com/livevd/user1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="(MUSICA)",Planeta TV Moyobamba (720p)
-https://live.obslivestream.com/planetatvmux/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="(MUSICA)",Top Latino TV (404p)
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" group-title="(MUSICA)",Turbo Mix Radio TV (480p)
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-
-
-#EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",MUSIC +
-http://s02.diazol.hu:10192/stream.m3u8
-
-#EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="(POKER TOUR EN VIVO)",World Poker Tour (1080p)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(TELENOVELAS)",telemundo
-https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="(Lifestyle/COCINA)",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/trutv.png" group-title="(Lifestyle/COCINA)",TRU TV
 https://edge4-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/life-time.png" group-title="(Lifestyle/COCINA)",LIFETIME
 https://edge4-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/mas-chic.png" group-title="(Lifestyle/COCINA)",MAS CHIC
 https://edge4-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/gourmet.png" group-title="(Lifestyle/COCINA)",EL GOURMET
 https://edge4-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/hgtv.png" group-title="(Lifestyle/COCINA)",HGTV
 https://edge4-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-
 #EXTINF:-1    tvg-logo="https://telefullenvivo.com/logos/food-network.png" group-title="(Lifestyle/COCINA)",FOOD NETWORK
 https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-
 #EXTINF:-1    tvg-logo="https://telecentro.com.ar/img/cm/channels/glitz@2x.png" group-title="(Lifestyle/COCINA)",GLITZ
 https://edge4-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 
