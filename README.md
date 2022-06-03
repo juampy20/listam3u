@@ -7,8 +7,6 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2020/07/television-publica-argentina.jpg" group-title="(CABLE)" , TV PUBLICA
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
@@ -53,6 +51,8 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
 
