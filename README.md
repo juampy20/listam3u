@@ -548,10 +548,10 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_G
 https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
-https://d1agn6yv8q3970.cloudfront.net/hls/abc/chunks.m3u8
+https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
-https://d1agn6yv8q3970.cloudfront.net/hls/abc/playlist.m3u8
+https://d2jh36pi0ck39m.cloudfront.net/hls/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
