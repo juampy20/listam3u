@@ -152,8 +152,7 @@ https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3HJNsSERZYA/YVMACeURNTI/AAAAAAAAQ80/z0jlNBhKaLIiWJq8olknuQnGbzbRi47qgCLcBGAsYHQ/w118-h118/Canal%2B10%2Bde%2BGeneral%2BRoca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , GENERAL ROCA
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y0EHX8oKseE/YVL5RaGb0bI/AAAAAAAAQ8U/rUdKCZ7LWncR1VTrQ8n1DIwD26R_ji8bQCLcBGAsYHQ/w147-h147/Choco%2BTV%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CHACO TV
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yalTjMiDqEE/YVL4kfDvXJI/AAAAAAAAQ8M/BYRyrE2KC80z-OayMFi0_f37G5uCPpZcgCLcBGAsYHQ/w161-h161/Catamarca%2BRTV%2Ben%2Bvivo.png" group-title="(CABLE)" , CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bJ0s6ERDfuQ/YVL3TuRlD9I/AAAAAAAAQ78/Onu25s8rOz0NuxOVYhyfwkQghx8-WSxHACLcBGAsYHQ/w138-h138/Canal%2B8%2BCatamarca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 8 CATAMARCA
@@ -576,7 +575,7 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 https://edge5-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , españa-portugal
+#EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , Eventos
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
