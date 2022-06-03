@@ -569,6 +569,9 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV
 https://edge4-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV (opc 2)
+https://edge5-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , españa-portugal
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
