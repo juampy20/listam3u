@@ -7,6 +7,55 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2020/07/television-publica-argentina.jpg" group-title="(CABLE)" , TV PUBLICA
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="(CABLE)" , MULTIVISION
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3HJNsSERZYA/YVMACeURNTI/AAAAAAAAQ80/z0jlNBhKaLIiWJq8olknuQnGbzbRi47qgCLcBGAsYHQ/w118-h118/Canal%2B10%2Bde%2BGeneral%2BRoca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , GENERAL ROCA
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yalTjMiDqEE/YVL4kfDvXJI/AAAAAAAAQ8M/BYRyrE2KC80z-OayMFi0_f37G5uCPpZcgCLcBGAsYHQ/w161-h161/Catamarca%2BRTV%2Ben%2Bvivo.png" group-title="(CABLE)" , CATAMARCA
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bJ0s6ERDfuQ/YVL3TuRlD9I/AAAAAAAAQ78/Onu25s8rOz0NuxOVYhyfwkQghx8-WSxHACLcBGAsYHQ/w138-h138/Canal%2B8%2BCatamarca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 8 CATAMARCA
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CU0xIwlCa8E/YVLsEw7rN_I/AAAAAAAAQ60/TbZ6loV0dl87y0cJbxwN2iUtcwlmy-XuACLcBGAsYHQ/w137-h137/Canal%2B4%2BJujuy%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dzbRjZALSF4/YVLq0T8frOI/AAAAAAAAQ6k/U4hj6ybWqRAGxAOW4LGZEb5ws38g6tY3wCLcBGAsYHQ/w147-h147/Jujuy.jpg" group-title="(CABLE)" , 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XieJ9rUnp3w/YVLqAHN8xyI/AAAAAAAAQ6c/45V1tCdgJAkrEELIeXgwUuTLY2cNG8ibwCLcBGAsYHQ/w128-h128/Canal%2B3%2BFormosa%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 3 FORMOSA
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JNW10AV8PPQ/YVLmlrYWtcI/AAAAAAAAQ50/mtP5r9RuNLwvd2l2DRHxErO7mfMYLffZgCLcBGAsYHQ/w127-h127/Canal%2BNueve%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CANAL 9 INTERIOR
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QFAb6K64GQM/YVLds_c7s2I/AAAAAAAAQ4k/95ejX-4Vvw0o6cjDdEyZsJf7eboo9F9WACLcBGAsYHQ/w134-h134/TRU%2BEn%2Bvivo.jpg" group-title="(CABLE)" , TRU MARCOS JUAREZ
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OEXACRWY_D0/YVLb2zghXqI/AAAAAAAAQ4c/DVBfNJ7mjMItshIrhzFOwwQVHoRN5iKagCLcBGAsYHQ/w105-h105/Canal%2B20%2BVilla%2BMaria%2Ben%2Bvivo.jpg" group-title="(CABLE)" , VILLA MARIA
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4RstsR1TgOQ/YVLbGoxKbWI/AAAAAAAAQ4M/xUKOH9wAqkU2UYt7Cwu-8y-lcBje6q3UQCLcBGAsYHQ/w120-h120/Canal%2B13%2Bde%2BR%25C3%25ADo%2BCuarto%2Ben%2Bvivo.png" group-title="(CABLE)" , 13 RIO CUARTO
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bsmtLld8o2U/YVIiw4iLykI/AAAAAAAAQ2s/hvKrEho_OdY4kUqr2V5MidrnFnAWxoYAwCLcBGAsYHQ/w138-h138/Canal%2B10%2Bde%2BMar%2Bdel%2BPlata%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 10 MAR DEL PLATA
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dwvVqlM4T7M/YVIf_QhXnCI/AAAAAAAAQ18/xWWfUddG5MgGYHp6k-ireokjN2ujfvncgCLcBGAsYHQ/w126-h126/Telemax%2Ben%2Bvivo.png" group-title="(CABLE)" , TELEMAX
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JM7YL5Kb-w4/YVSaQgVVWqI/AAAAAAAARD4/Zd_2mebUrAka9KMALTuX618z99sICcdSgCLcBGAsYHQ/w128-h128/KZO%2Ben%2Bvivo.jpg" group-title="CABLE-RADIO" , KZO
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_d7hq-rYEM0/YVSNXpxmM5I/AAAAAAAARBw/uzfgNVgUYokGxgvnwEWR2V4Z_c6RZLMlACLcBGAsYHQ/w147-h147/Canal%2B4%2Bde%2BSan%2BJuan%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 4 SAN JUAN
+https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w277040424.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="(CABLE)" , TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png" group-title="(CABLE)" , 34 SAN JUAN
+https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 13 SAN LUIS
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
 
@@ -24,7 +73,6 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 
@@ -55,6 +103,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , NATGEO HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="(DOCUMENTAL)" , CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 
 
 
@@ -272,54 +322,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2020/07/television-publica-argentina.jpg" group-title="(CABLE)" , TV PUBLICA
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="(CABLE)" , MULTIVISION
-https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3HJNsSERZYA/YVMACeURNTI/AAAAAAAAQ80/z0jlNBhKaLIiWJq8olknuQnGbzbRi47qgCLcBGAsYHQ/w118-h118/Canal%2B10%2Bde%2BGeneral%2BRoca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , GENERAL ROCA
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yalTjMiDqEE/YVL4kfDvXJI/AAAAAAAAQ8M/BYRyrE2KC80z-OayMFi0_f37G5uCPpZcgCLcBGAsYHQ/w161-h161/Catamarca%2BRTV%2Ben%2Bvivo.png" group-title="(CABLE)" , CATAMARCA
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bJ0s6ERDfuQ/YVL3TuRlD9I/AAAAAAAAQ78/Onu25s8rOz0NuxOVYhyfwkQghx8-WSxHACLcBGAsYHQ/w138-h138/Canal%2B8%2BCatamarca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CU0xIwlCa8E/YVLsEw7rN_I/AAAAAAAAQ60/TbZ6loV0dl87y0cJbxwN2iUtcwlmy-XuACLcBGAsYHQ/w137-h137/Canal%2B4%2BJujuy%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 4 JUJUY
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dzbRjZALSF4/YVLq0T8frOI/AAAAAAAAQ6k/U4hj6ybWqRAGxAOW4LGZEb5ws38g6tY3wCLcBGAsYHQ/w147-h147/Jujuy.jpg" group-title="(CABLE)" , 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XieJ9rUnp3w/YVLqAHN8xyI/AAAAAAAAQ6c/45V1tCdgJAkrEELIeXgwUuTLY2cNG8ibwCLcBGAsYHQ/w128-h128/Canal%2B3%2BFormosa%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 3 FORMOSA
-https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JNW10AV8PPQ/YVLmlrYWtcI/AAAAAAAAQ50/mtP5r9RuNLwvd2l2DRHxErO7mfMYLffZgCLcBGAsYHQ/w127-h127/Canal%2BNueve%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CANAL 9 INTERIOR
-https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QFAb6K64GQM/YVLds_c7s2I/AAAAAAAAQ4k/95ejX-4Vvw0o6cjDdEyZsJf7eboo9F9WACLcBGAsYHQ/w134-h134/TRU%2BEn%2Bvivo.jpg" group-title="(CABLE)" , TRU MARCOS JUAREZ
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OEXACRWY_D0/YVLb2zghXqI/AAAAAAAAQ4c/DVBfNJ7mjMItshIrhzFOwwQVHoRN5iKagCLcBGAsYHQ/w105-h105/Canal%2B20%2BVilla%2BMaria%2Ben%2Bvivo.jpg" group-title="(CABLE)" , VILLA MARIA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4RstsR1TgOQ/YVLbGoxKbWI/AAAAAAAAQ4M/xUKOH9wAqkU2UYt7Cwu-8y-lcBje6q3UQCLcBGAsYHQ/w120-h120/Canal%2B13%2Bde%2BR%25C3%25ADo%2BCuarto%2Ben%2Bvivo.png" group-title="(CABLE)" , 13 RIO CUARTO
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bsmtLld8o2U/YVIiw4iLykI/AAAAAAAAQ2s/hvKrEho_OdY4kUqr2V5MidrnFnAWxoYAwCLcBGAsYHQ/w138-h138/Canal%2B10%2Bde%2BMar%2Bdel%2BPlata%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 10 MAR DEL PLATA
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dwvVqlM4T7M/YVIf_QhXnCI/AAAAAAAAQ18/xWWfUddG5MgGYHp6k-ireokjN2ujfvncgCLcBGAsYHQ/w126-h126/Telemax%2Ben%2Bvivo.png" group-title="(CABLE)" , TELEMAX
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JM7YL5Kb-w4/YVSaQgVVWqI/AAAAAAAARD4/Zd_2mebUrAka9KMALTuX618z99sICcdSgCLcBGAsYHQ/w128-h128/KZO%2Ben%2Bvivo.jpg" group-title="CABLE-RADIO" , KZO
-https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_d7hq-rYEM0/YVSNXpxmM5I/AAAAAAAARBw/uzfgNVgUYokGxgvnwEWR2V4Z_c6RZLMlACLcBGAsYHQ/w147-h147/Canal%2B4%2Bde%2BSan%2BJuan%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 4 SAN JUAN
-https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w277040424.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="(CABLE)" , TELESOL SAN JUAN
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png" group-title="(CABLE)" , 34 SAN JUAN
-https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 13 SAN LUIS
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
 
@@ -355,8 +358,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="(DOCUMENTAL)" , CANAL RURAL
-https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
+
 
 
 
@@ -396,14 +398,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
-
-
-
-#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
-
-
 
 
 
