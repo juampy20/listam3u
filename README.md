@@ -104,6 +104,8 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.
 https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="(DOCUMENTAL)" , CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" group-title="(DOCUMENTAL)" , ENCUENTRO
+https://edge4-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
 
 
 
