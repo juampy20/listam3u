@@ -228,8 +228,6 @@ https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="(MUSICA)",Karibeña (720p)
 https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="(MUSICA)",Planeta TV Moyobamba (720p)
-https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="(MUSICA)", Retro Plus TV | CL
