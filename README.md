@@ -11,11 +11,6 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2020/07/television-publica-argentina.jpg" group-title="(CABLE)" , TV PUBLICA
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
@@ -75,6 +70,8 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="(NOTICIEROS)" , RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 
@@ -239,6 +236,14 @@ https://cu.onliv3.com/livevd/user1.m3u8
 https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="(MUSICA)",Sol Stereo TV (Casma)
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="(MUSICA)", Retro Plus TV | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="(MUSICA)", Retro Plus TV Señal 2 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="(MUSICA)", TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -315,20 +320,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 1
 https://5.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 2
@@ -359,29 +350,12 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="(MUSICA)", Retro Plus TV | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="(MUSICA)", Retro Plus TV Señal 2 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="(MUSICA)", TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+
 
 
 
