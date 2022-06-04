@@ -279,12 +279,15 @@ https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV (opc 2)
 https://edge5-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="(DEPORTES)" , Eventos
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="(DEPORTES)",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="(EVENTOS)" , La voz Kids 22:00Hs
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
 
