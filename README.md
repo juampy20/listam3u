@@ -286,10 +286,6 @@ https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="(EVENTOS)" , La voz Kids 22:00Hs
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="TURF" , EEUU 1
@@ -313,6 +309,11 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Uruguay" , VTV
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="ANTENA 3 (LA VOZ KIDS)" , VTV
+https://edge4-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
 
 
 
