@@ -309,7 +309,7 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="EXTRAS INTERNACIONALES" , VTV
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="EXTRAS INTERNACIONALES" , WOW TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a5da7d81b208bec79c6ff2c0e90ec8a6.webp" group-title="EXTRAS INTERNACIONALES" , WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
