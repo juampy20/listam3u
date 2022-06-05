@@ -53,6 +53,8 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" ,CANAL 90 INTERES GENERAL
+https://edge4-sl.cvattv.com.ar/live/c6eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
 
 
 
