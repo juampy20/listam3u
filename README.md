@@ -316,7 +316,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="ANTENA 3 (LA VOZ KIDS)" , Antena 3
+#EXTINF:-1 tvg-logo="https://i.blogs.es/909401/antena3/450_1000.png" group-title="ANTENA 3 (LA VOZ KIDS)" , Antena 3
 https://edge4-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
 
 
