@@ -236,7 +236,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" group-title="(MUSICA)",Turbo Mix Radio TV (480p)
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Mi Gente TV (720p)
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mi-gente-tv-en-vivo-1435.jpg" group-title="(MUSICA)",Mi Gente TV (720p)
 https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hits360TV.do" tvg-country="DO" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="(MUSICA)",Hits 360 TV (720p)
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
