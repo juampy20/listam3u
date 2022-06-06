@@ -71,6 +71,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
 https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_aY6uWfdpKTw/TPFV7aKpDsI/AAAAAAAADQU/ZVGP-nEXOEI/s1600/CNN-latino+nuevo+logo.jpg" group-title="(NOTICIEROS)" , CNN en Español
+https://edge4-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
