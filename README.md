@@ -55,6 +55,8 @@ https://videohd.live:19360/8010/8010.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="--" group-title="(CABLE)" ,CANAL 90 INTERES GENERAL
 https://edge4-sl.cvattv.com.ar/live/c6eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/298052f7d0c144e82b2750ad55289082.webp" group-title="(CABLE)" ,TIERRAMIA INTERES GENERAL
+https://live-edge01.telecentro.net.ar////live/smil:trm.smil/chunklist_w1065847888_b1864000_sleng.m3u8
 
 
 
