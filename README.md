@@ -230,7 +230,7 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="http://assets.stickpng.com/thumbs/60394fa9b6264f0004079c1a.png" group-title="(MUSICA)",MUSIC +
 http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://geconindustrial.es/wp-content/uploads/2019/06/elite-300x223.png" group-title="(MUSICA)",Cadena Elite (720p)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="(MUSICA)",Top Latino TV (404p)
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
