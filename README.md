@@ -228,7 +228,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cm_.png" group-title="(MUSICA)" , CM
 https://edge4-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",MUSIC +
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="http://assets.stickpng.com/thumbs/60394fa9b6264f0004079c1a.png" group-title="(MUSICA)",MUSIC +
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(MUSICA)",Cadena Elite (720p)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
