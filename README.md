@@ -214,6 +214,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/mtv_.png" group-title="(MUSICA)" , MTV HD
 https://edge4-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/08/1_0_1_6FF0_436_1_C00000_0_0_0-1.png?fit=440%2C264&ssl=1" group-title="(MUSICA)" , MTV 00
+https://edge4-sl.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/musictop_.png" group-title="(MUSICA)" , MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/quiero_.png" group-title="(MUSICA)" , QUIERO HD
