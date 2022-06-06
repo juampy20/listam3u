@@ -73,6 +73,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
 https://edge4-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
+https://edge4-sl.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
