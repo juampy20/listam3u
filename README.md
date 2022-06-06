@@ -108,6 +108,8 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" group-title="(DOCUMENTAL)" , ENCUENTRO
 https://edge4-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="(DOCUMENTAL)" , SUN Channel
+https://edge4-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
 
 
 
