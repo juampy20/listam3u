@@ -51,8 +51,7 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(CABLE)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(CABLE)",La 2 (720p)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
 #EXTINF:-1 tvg-logo="--" group-title="(CABLE)" ,CANAL 90 INTERES GENERAL
 https://edge4-sl.cvattv.com.ar/live/c6eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/298052f7d0c144e82b2750ad55289082.webp" group-title="(CABLE)" ,TIERRAMIA INTERES GENERAL
@@ -325,11 +324,12 @@ https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_playlist.m3u8?aid=.A3
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="EXTRAS INTERNACIONALES" , VTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="(EXTRAS INTERNACIONALES)" , VTV
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a5da7d81b208bec79c6ff2c0e90ec8a6.webp" group-title="EXTRAS INTERNACIONALES" , WOW TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a5da7d81b208bec79c6ff2c0e90ec8a6.webp" group-title="(EXTRAS INTERNACIONALES)" , WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="(EXTRAS INTERNACIONALES)",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
 
