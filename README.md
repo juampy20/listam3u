@@ -269,6 +269,8 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="(DEPORTES)" , CLARO Deportes
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" group-title="(DEPORTES)" , TUDN
+https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgODo1MDoxNiBQTSZoYXNoX3ZhbHVlPTU3dTRsYnYrWjNGcldjNldSQ0RCV2c9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
