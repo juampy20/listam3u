@@ -327,6 +327,9 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="(TURF)" , EEUU 9
 https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YFsBv5yIRLdyike05Q-O-2KDke2q4ABH1ba5jMl1ihcFdlUrqwVWx4bihEKAYYfsRklL8JS61MPAeDYQUNhzBf14QG9rcGrTx1moqlzvEWyKaOCGwEIZHmh-Z1kEP5gj
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="(TURF)" , test smart
+https://stream.robertsstream.com/streamlive.php?referer=RTNThoroughbred&user=38843&userip=45.7.209.199&optp=pid%3A96%7Ctid%3A&stream=churchill_downs_mbr&type=live&t=1654707153&h=79f18913d946b53d3e1fee0732950c03&hd=1&speed=2200
+
 
 
 
