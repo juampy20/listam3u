@@ -305,6 +305,8 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="(DEPORTES)", Best Cable Sports | PE
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://img.favpng.com/10/14/18/motors-tv-television-channel-motorsport-auto-racing-png-favpng-t31puzdwCiTMJmy4GqrYvwc5a.jpg" group-title="(DEPORTES)" , MOTORSPORT
+https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 
 
 
