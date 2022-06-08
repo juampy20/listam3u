@@ -275,6 +275,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn4_.png" group-title="(DEPORTES)" , ESPN 4
 https://edge4-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/espnextra_168454a3305d02eac89d9178fef561c1447c9710.jpeg" group-title="(DEPORTES)" , ESPN EXTRA
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/deportv_.png" group-title="(DEPORTES)" , DEPORTV
 https://edge4-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title="(DEPORTES)" , TYC SPORTS
