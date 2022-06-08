@@ -285,6 +285,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8?nimblesessionid=42089&wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjIgNzo1MToxOSBQTSZoYXNoX3ZhbHVlPWJvRDFxbEs3NnpzanFIR1pkRmhUSlE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1   tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/858_planet-x.png.575ae3eb66a5ae88545475d83f9d720d.png" group-title="(DEPORTES)", PX Sports
 https://edge4-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://tv.xn--tream2watch-i9d.com/images/streams/144321/stm/16357752967573.jpg" group-title="(DEPORTES)" , motorsport https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
