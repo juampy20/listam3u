@@ -114,6 +114,8 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
 https://edge4-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="(DOCUMENTAL)" , SUN Channel
 https://edge4-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/logopop-120x105-681970809.png" group-title="(DOCUMENTAL)" , MEXICO TRAVEL CHANNEL
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRl1uz3eTKMTe4kSF1YgdEdK0hRprkO9kmVKd_M5fbvf)/dm/3/x7v76vf/s/live-1.m3u8
 
 
 
