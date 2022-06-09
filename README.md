@@ -370,6 +370,8 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_G
 https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 #EXTINF:-1    tvg-logo="https://telecentro.com.ar/img/cm/channels/glitz@2x.png" group-title="(Lifestyle/COCINA)",GLITZ
 https://edge4-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+#EXTINF:-1    tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/indian-fashion-tv-channel-logo-300x300.jpg" group-title="(Lifestyle/COCINA)",FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 
 
