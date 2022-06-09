@@ -289,16 +289,10 @@ https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u
 https://edge4-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
 #EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 
 https://d2jh36pi0ck39m.cloudfront.net/hls/live/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)", NBA 2 (opc2)
-https://d2jh36pi0ck39m.cloudfront.net/hls/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1
 https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 1 (opc2)
-https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3
 https://d1agn6yv8q3970.cloudfront.net/hls/espn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/nba-logo-transparent-png-80496.png" group-title="(DEPORTES)" , NBA 3 (op 2)
-https://d1agn6yv8q3970.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV
 https://edge4-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="(DEPORTES)" , NBA TV (opc 2)
@@ -330,11 +324,7 @@ https://3.trstream01.xyz/canal6/stream.m3u8
 https://1.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="(TURF)" , EEUU 8
 https://4.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="(TURF)" , EEUU 9
-https://live-global-cdn-v02.afreecatv.com/live-stm-04/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.YFsBv5yIRLdyike05Q-O-2KDke2q4ABH1ba5jMl1ihcFdlUrqwVWx4bihEKAYYfsRklL8JS61MPAeDYQUNhzBf14QG9rcGrTx1moqlzvEWyKaOCGwEIZHmh-Z1kEP5gj
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/986/587/png-transparent-meydan-racecourse-thoroughbred-standardbred-woodbine-racetrack-horse-racing-ihorse-racing-free-horse-racing-game-horse-dog-like-mammal-racing-thumbnail.png" group-title="(TURF)" , test smart
-https://hls1.rcncdn.com/hlsorigin/churchill_downs_hd_fm_2200/chunklist.m3u8?stream=churchill_downs_mbr&cust=RTN&user=38843&t=1654707423&h=642d65a6e58e823d22e717b4ac8a3d24&type=live&optp=pid%3A96%7Ctid%3A
 
 
 
