@@ -344,6 +344,8 @@ https://videohd.live:19360/8010/8010.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png" group-title="(EXTRAS INTERNACIONALES)" , AMG TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201660-1270634/chunklist_b3998000.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image80074330885.jpg" group-title="(EXTRAS INTERNACIONALES)" , HIGH VISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 
 
