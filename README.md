@@ -342,6 +342,8 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41bFwLpbChL.png" group-title="(EXTRAS INTERNACIONALES)" , NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png" group-title="(EXTRAS INTERNACIONALES)" , AMG TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201660-1270634/chunklist_b3998000.m3u8
 
 
 
