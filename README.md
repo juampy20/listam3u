@@ -305,6 +305,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/14/18/motors-tv-television-channel-motorsport-auto-racing-png-favpng-t31puzdwCiTMJmy4GqrYvwc5a.jpg" group-title="(DEPORTES)" , MOTORSPORT
 https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 
