@@ -83,6 +83,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="(NOTICIEROS)",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://wjro.org.il/cms/assets/uploads/2019/09/bloomberg-news-logo.png" group-title="(NOTICIEROS)" , BLOOMBERG
+https://cloudfront63.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
 
 
