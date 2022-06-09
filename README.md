@@ -340,6 +340,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="(EXTRAS INTERNACIONALES)",GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41bFwLpbChL.png" group-title="(EXTRAS INTERNACIONALES)" , NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 
