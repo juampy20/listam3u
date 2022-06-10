@@ -17,8 +17,6 @@ https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3HJNsSERZYA/YVMACeURNTI/AAAAAAAAQ80/z0jlNBhKaLIiWJq8olknuQnGbzbRi47qgCLcBGAsYHQ/w118-h118/Canal%2B10%2Bde%2BGeneral%2BRoca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , GENERAL ROCA
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yalTjMiDqEE/YVL4kfDvXJI/AAAAAAAAQ8M/BYRyrE2KC80z-OayMFi0_f37G5uCPpZcgCLcBGAsYHQ/w161-h161/Catamarca%2BRTV%2Ben%2Bvivo.png" group-title="(CABLE)" , CATAMARCA
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bJ0s6ERDfuQ/YVL3TuRlD9I/AAAAAAAAQ78/Onu25s8rOz0NuxOVYhyfwkQghx8-WSxHACLcBGAsYHQ/w138-h138/Canal%2B8%2BCatamarca%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CU0xIwlCa8E/YVLsEw7rN_I/AAAAAAAAQ60/TbZ6loV0dl87y0cJbxwN2iUtcwlmy-XuACLcBGAsYHQ/w137-h137/Canal%2B4%2BJujuy%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 4 JUJUY
@@ -29,8 +27,6 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JNW10AV8PPQ/YVLmlrYWtcI/AAAAAAAAQ50/mtP5r9RuNLwvd2l2DRHxErO7mfMYLffZgCLcBGAsYHQ/w127-h127/Canal%2BNueve%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CANAL 9 INTERIOR
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QFAb6K64GQM/YVLds_c7s2I/AAAAAAAAQ4k/95ejX-4Vvw0o6cjDdEyZsJf7eboo9F9WACLcBGAsYHQ/w134-h134/TRU%2BEn%2Bvivo.jpg" group-title="(CABLE)" , TRU MARCOS JUAREZ
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OEXACRWY_D0/YVLb2zghXqI/AAAAAAAAQ4c/DVBfNJ7mjMItshIrhzFOwwQVHoRN5iKagCLcBGAsYHQ/w105-h105/Canal%2B20%2BVilla%2BMaria%2Ben%2Bvivo.jpg" group-title="(CABLE)" , VILLA MARIA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4RstsR1TgOQ/YVLbGoxKbWI/AAAAAAAAQ4M/xUKOH9wAqkU2UYt7Cwu-8y-lcBje6q3UQCLcBGAsYHQ/w120-h120/Canal%2B13%2Bde%2BR%25C3%25ADo%2BCuarto%2Ben%2Bvivo.png" group-title="(CABLE)" , 13 RIO CUARTO
