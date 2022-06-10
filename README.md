@@ -310,8 +310,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=__eonAoJ6ngaKOfPXI6WWA&expires=1654830179&ip=45.7.209.199
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 2 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=d65P0HTELbNFPXKVez0DSA&expires=1654830547&ip=45.7.209.199
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=mbzeJOFg4FP3SpcKNgPVOg&expires=1654830905&ip=45.7.209.199
 
 
 
