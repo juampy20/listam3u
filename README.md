@@ -308,16 +308,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=__eonAoJ6ngaKOfPXI6WWA&expires=1654830179&ip=45.7.209.199
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 2 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=d65P0HTELbNFPXKVez0DSA&expires=1654830547&ip=45.7.209.199
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 3
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=mbzeJOFg4FP3SpcKNgPVOg&expires=1654830905&ip=45.7.209.199
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 4
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=EDwjN7zF5vX5vdpj04WgOQ&expires=1654831022&ip=45.7.209.199
-#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 5
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/199_.m3u8?token=eFfg5oizRJHlFH1FG4_LDw&expires=1654831751&ip=45.7.209.199
+
 
 
 
