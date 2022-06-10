@@ -308,6 +308,8 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=__eonAoJ6ngaKOfPXI6WWA&expires=1654830179&ip=45.7.209.199
 
 
 
