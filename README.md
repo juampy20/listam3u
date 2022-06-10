@@ -308,6 +308,8 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKY3RmzNjaDZ7-fRL7oRvSpUSb3uJZ1SRr4d2PLGfC9gaNABXspPRPiw1rAbMyTuqyKak&usqp=CAU" group-title="(DEPORTES)" , EVENTOS EXTRAS
+https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.FifK4ps-_QGhHpoH2NOq3CyWL2AuCHhShfL-9D4vPEdpu9irFGaw5X3FlSW9NpNHKZuwZi8vw1Nh_vG3Zou19_GktWsajKmZwvcJ3-WOFYJDKp1m4chxfo8rpQEAbt-F
 
 
 
