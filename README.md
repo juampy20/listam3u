@@ -261,7 +261,7 @@ https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT SPORTS HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsportspremium_.png" group-title="(DEPORTES)" , FOX SPORTS PREMIUM HD
+#EXTINF:-1 tvg-logo="https://us.cdn.eltribuno.com/042022/1651179576292.jpg?cw=600&ch=365" group-title="(DEPORTES)" , ESPN PREMIUM
 https://edge4-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , FOX SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
