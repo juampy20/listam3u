@@ -314,6 +314,8 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=__eonAoJ6ngaK
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=d65P0HTELbNFPXKVez0DSA&expires=1654830547&ip=45.7.209.199
 #EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 3
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=mbzeJOFg4FP3SpcKNgPVOg&expires=1654830905&ip=45.7.209.199
+#EXTINF:-1 tvg-logo="---" group-title="(DEPORTES)" , test mexico 4
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=EDwjN7zF5vX5vdpj04WgOQ&expires=1654831022&ip=45.7.209.199
 
 
 
