@@ -303,7 +303,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKY3RmzNjaDZ7-fRL7oRvSpUSb3uJZ1SRr4d2PLGfC9gaNABXspPRPiw1rAbMyTuqyKak&usqp=CAU" group-title="(DEPORTES)" , EVENTOS EXTRAS
+#EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_miptv-2022.jpeg" group-title="(DEPORTES)" , EVENTOS EXTRAS
 https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.x4_iRfGAeXnvIKkycZi_vDiHBxNffLFidz0TeJU3gr79mJ4esNOjtxxLN-2bA6wwRZi9lcTp7dx-NMm2l6b4VmDmJcmc0N_DWStNza9K9e6zFGvEPnIsD0QNXmKApt72
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/cpfutbolhd_cpeventoshd.jpg" group-title="(DEPORTES)" , EVENTOS 1HD
