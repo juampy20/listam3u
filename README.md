@@ -377,7 +377,7 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.
 https://edge4-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 
 
-
+https://helmerluzo.github.io/PlutoTV_HL/vod/PlutoTV_VOD_ES.m3u
 
 
 
