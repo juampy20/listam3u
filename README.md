@@ -304,7 +304,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_miptv-2022.jpeg" group-title="(DEPORTES)" , EVENTOS EXTRAS
-https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.1BsNAXdM4gY0ZIzh3zN0Pho98GYqLEsYJZvz2j00XG1nIMcIfALKlNMrh4y58OLQbOkKcCSFc2yjlwan3mvphe1OArcQ-RKzyoydhs5jC2KTue8lgScSrEP03OHiiVG3
+https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GgD2uX80Lnx8VTBhpSRo3HY9pvKbdQpw39JecLMwMiwnX-GNXlOH0UX-kfMkLe49crSP9xAdkmCh_BDJcYcR0zbYtEGYepCFUDJ_NX5ApfHPW3xElJdOzrFO85QfQpBs
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/cpfutbolhd_cpeventoshd.jpg" group-title="(DEPORTES)" , EVENTOS 1HD
 https://edge4-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
