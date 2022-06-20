@@ -261,6 +261,9 @@ https://edge1-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_H
 
 #EXTINF:-1 tvg-logo="https://us.cdn.eltribuno.com/042022/1651179576292.jpg?cw=600&ch=365" group-title="(DEPORTES)" , ESPN PREMIUM
 https://edge4-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://us.cdn.eltribuno.com/042022/1651179576292.jpg?cw=600&ch=365" group-title="(DEPORTES)" , ESPN PREMIUM (opc 2)
+https://edge1-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_579968=10002-mp4a_145200_spa=20001.m3u8?_s=vp-1.4.0
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , FOX SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , FOX SPORTS 2
