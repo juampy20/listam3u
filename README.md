@@ -24,6 +24,7 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dzbRjZALSF4/YVLq0T8frOI/AAAAAAAAQ6k/U4hj6ybWqRAGxAOW4LGZEb5ws38g6tY3wCLcBGAsYHQ/w147-h147/Jujuy.jpg" group-title="(CABLE)" , 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XieJ9rUnp3w/YVLqAHN8xyI/AAAAAAAAQ6c/45V1tCdgJAkrEELIeXgwUuTLY2cNG8ibwCLcBGAsYHQ/w128-h128/Canal%2B3%2BFormosa%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 3 FORMOSA
+
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JNW10AV8PPQ/YVLmlrYWtcI/AAAAAAAAQ50/mtP5r9RuNLwvd2l2DRHxErO7mfMYLffZgCLcBGAsYHQ/w127-h127/Canal%2BNueve%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CANAL 9 INTERIOR
 https://live.canalnueve.tv/canal.m3u8
