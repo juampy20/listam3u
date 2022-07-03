@@ -147,13 +147,16 @@ https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRl1uz3eTKMTe4kSF1
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="(SERIES)" , WARNER HD
-https://edge4-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/sony_.png" group-title="(SERIES)" , SONY HD
-https://edge4-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="(SERIES)" , A3 Series
-https://edge4-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/tbs_logo.png" group-title="(SERIES)" , TBS
-https://edge4-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
 
 
