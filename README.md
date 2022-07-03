@@ -54,6 +54,7 @@ https://live-edge01.telecentro.net.ar////live/smil:trm.smil/chunklist_w106584788
 
 
 
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cronicatv.png" group-title="(NOTICIEROS)" , CRONICA TV
 https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/c5n.png" group-title="(NOTICIEROS)" , C5N
