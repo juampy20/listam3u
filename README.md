@@ -229,13 +229,16 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extr
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/pasiones_.png" group-title="(TELENOVELAS)" , PASIONES
-https://edge4-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/canalestrellas.png" group-title="(TELENOVELAS)" , CANAL DE LAS ESTRELLAS
-https://edge4-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
 #EXTINF:-1 tvg-id="PongaloNovelaclub.us" tvg-country="US" tvg-logo="https://i.imgur.com/vLSvJ7W.jpg" group-title="(TELENOVELAS)",Pongalo Novelaclub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="(TELENOVELAS)",telemundo
-https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 
 
