@@ -12,7 +12,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lasteles.com/wp-content/uploads/2020/07/television-publica-argentina.jpg" group-title="(CABLE)" , TV PUBLICA
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(CABLE)" , POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4mCEbnjCXzM/YVMgmu27CpI/AAAAAAAAQ-c/SWJCoHWO1ywpVoMex3De4bhicGJJn5tEACLcBGAsYHQ/w132-h132/Canal%2B10%2BSan%2BRafael%2Ben%2Bvivo.jpg" group-title="(CABLE)" , SAN RAFAEL MENDOZA
@@ -60,15 +61,20 @@ https://live-edge01.telecentro.net.ar////live/smil:trm.smil/chunklist_w106584788
 
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cronicatv.png" group-title="(NOTICIEROS)" , CRONICA TV
-https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/c5n.png" group-title="(NOTICIEROS)" , C5N
-https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
-https://edge4-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tn.png" group-title="(NOTICIEROS)" , TN HD
-https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
-https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mrMweC71T4HK4htUyI1MDYTLdl7Qn2_x_mscsyQ0nsOqJSR8waWtebxVymGplKZZOBI&usqp=CAU" group-title="(NOTICIEROS)" , TV España
 https://edge4-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_aY6uWfdpKTw/TPFV7aKpDsI/AAAAAAAADQU/ZVGP-nEXOEI/s1600/CNN-latino+nuevo+logo.jpg" group-title="(NOTICIEROS)" , CNN en Español
