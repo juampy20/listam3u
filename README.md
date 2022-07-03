@@ -161,47 +161,67 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fox_.png" group-title="(CINE)" , FOX CHANELL HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/amclatino.png" group-title="(CINE)" , AMC
-https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/comedycentral.png" group-title="(CINE)" , COMEDY CENTRAL
-https://edge4-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/space.png" group-title="(CINE)" , SPACE
-https://edge4-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , AXN HD
-https://edge4-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tcm.png" group-title="(CINE)" , TCM
-https://edge4-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cinecanal_.png" group-title="(CINE)" , CINECANAL HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/axn_.png" group-title="(CINE)" , CINEMAX
-https://edge4-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/starchannel_.png" group-title="(CINE)" , STAR CHANELL
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/paramount_.png" group-title="(CINE)" , PARAMOUNT HD
-https://edge4-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tnt_.png" group-title="(CINE)" , TNT HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntseries_.png" group-title="(SERIES)" , TNT SERIES
-https://edge4-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/universal_.png" group-title="(CINE)" , UNIVERSAL CHANELL
-https://edge4-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
 #EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="(CINE)",CINE.AR (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbo_.png" group-title="(CINE)" , HBO
-https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbo2_.png" group-title="(CINE)" , HBO 2
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboplus_.png" group-title="(CINE)" , HBO PLUS
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbofamily_.png" group-title="(CINE)" , HBO FAMILY
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbopop_.png" group-title="(CINE)" , HBO POP
-https://edge4-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbomundi_.png" group-title="(CINE)" , HBO MUNDI
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboxtreme_.png" group-title="(CINE)" , HBO EXTREME
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 
 
