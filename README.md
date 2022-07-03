@@ -76,13 +76,16 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNot
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mrMweC71T4HK4htUyI1MDYTLdl7Qn2_x_mscsyQ0nsOqJSR8waWtebxVymGplKZZOBI&usqp=CAU" group-title="(NOTICIEROS)" , TV España
-https://edge4-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_aY6uWfdpKTw/TPFV7aKpDsI/AAAAAAAADQU/ZVGP-nEXOEI/s1600/CNN-latino+nuevo+logo.jpg" group-title="(NOTICIEROS)" , CNN en Español
-https://edge4-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="(NOTICIEROS)",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
-https://edge4-sl.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
+
 #EXTINF:-1 tvg-id="24h.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="(NOTICIEROS)",24 Horas (1080p)
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="(NOTICIEROS)",324 (1080p)
@@ -97,33 +100,46 @@ https://cloudfront63.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hyh_.png" group-title="(DOCUMENTAL)" , DISCOVERY HYH HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="(DOCUMENTAL)" , TLC
-https://edge4-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoverytheater.png" group-title="(DOCUMENTAL)" , DISCOVERY THEATER
-https://edge4-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/discoveryworl.png" group-title="(DOCUMENTAL)" , DISCOVERY WORLD HD
-https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/id_.png" group-title="(DOCUMENTAL)" , ID
-https://edge4-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="(DOCUMENTAL)" , DISCOVERY HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/turbo_.png" group-title="(DOCUMENTAL)" , DISCOVERY TURBO
-https://edge4-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history_.png" group-title="(DOCUMENTAL)" , HISTORY HD
-https://edge4-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/history2_.png" group-title="(DOCUMENTAL)" , HISTORY 2
-https://edge4-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/animalplanet_.png" group-title="(DOCUMENTAL)" , ANIMAL PLANET
-https://edge4-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , NATGEO HD
-https://edge4-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="(DOCUMENTAL)" , CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/chunklist_w2035731769.m3u8
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" group-title="(DOCUMENTAL)" , ENCUENTRO
-https://edge4-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="(DOCUMENTAL)" , SUN Channel
-https://edge4-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/logopop-120x105-681970809.png" group-title="(DOCUMENTAL)" , MEXICO TRAVEL CHANNEL
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRl1uz3eTKMTe4kSF1YgdEdK0hRprkO9kmVKd_M5fbvf)/dm/3/x7v76vf/s/live-1.m3u8
 
