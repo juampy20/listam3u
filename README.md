@@ -33,7 +33,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 #EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , EMISION PROPIA (DEPORTES)
-https://live-global-cdn-v02.afreecatv.com/live-stm-03/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.KFWO1zENp4aG9GJA_dEeI_O-t5U9Ydj5gLtcrGsskVobe9zf2CoquYPgAnSAreqbuqkY2mdk17T9VBOGIs_5N33hD8AEd9U9zZZ1jyyi0R0I_TVaL-a7kpYODM_R5xjt
+https://live-global-cdn-v02.afreecatv.com/live-stm-12/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.C48RfFRR5GpvZOtTlP7gRYiDgJn18AE-HAJP8c1nmYxlSaWrMSbMte_CbXZdh1EFH3f1lq4-mdLOmvTxiTUGHbkO4hDnRPfDUAIhDPwqF1p8wDR5LF00HkUYmvJxTd_v
 
 
 
