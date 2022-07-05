@@ -32,7 +32,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 #EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , tyc sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
-#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , EMISION PROPIA
+#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , EMISION PROPIA (DEPORTES)
 https://live-global-cdn-v02.afreecatv.com/live-stm-14/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.cKKVKgackXuXYA7lEI5nyfuvI9KeCOBC4N7Tghli_PI32Jxd-mysOrHg1jvNS3b81qM9cuMiM-PLQM1QMmLq_Cq08Hjq4_IjUhnYIMMojSTz0YMFHfgmNjWD_8pbuua-
 
 
@@ -60,8 +60,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JNW10AV8PPQ/YVLmlrYWtcI/AAAAAAAAQ50/mtP5r9RuNLwvd2l2DRHxErO7mfMYLffZgCLcBGAsYHQ/w127-h127/Canal%2BNueve%2Ben%2Bvivo.jpg" group-title="(CABLE)" , CANAL 9 INTERIOR
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OEXACRWY_D0/YVLb2zghXqI/AAAAAAAAQ4c/DVBfNJ7mjMItshIrhzFOwwQVHoRN5iKagCLcBGAsYHQ/w105-h105/Canal%2B20%2BVilla%2BMaria%2Ben%2Bvivo.jpg" group-title="(CABLE)" , VILLA MARIA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4RstsR1TgOQ/YVLbGoxKbWI/AAAAAAAAQ4M/xUKOH9wAqkU2UYt7Cwu-8y-lcBje6q3UQCLcBGAsYHQ/w120-h120/Canal%2B13%2Bde%2BR%25C3%25ADo%2BCuarto%2Ben%2Bvivo.png" group-title="(CABLE)" , 13 RIO CUARTO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bsmtLld8o2U/YVIiw4iLykI/AAAAAAAAQ2s/hvKrEho_OdY4kUqr2V5MidrnFnAWxoYAwCLcBGAsYHQ/w138-h138/Canal%2B10%2Bde%2BMar%2Bdel%2BPlata%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 10 MAR DEL PLATA
@@ -76,8 +75,7 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ciLOnTfzLrg/YVSPekufsLI/AAAAAAAARCI/1DkDwvF8OqkHP3lU2rroIYE5HVObOg_rwCLcBGAsYHQ/w145-h145/Canal%2B13%2BSan%2BLuis%2Ben%2Bvivo.jpg" group-title="(CABLE)" , 13 SAN LUIS
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" ,CANAL 90 INTERES GENERAL
-https://edge4-sl.cvattv.com.ar/live/c6eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/298052f7d0c144e82b2750ad55289082.webp" group-title="(CABLE)" ,TIERRAMIA INTERES GENERAL
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/chunklist_w1065847888_b1864000_sleng.m3u8
 
