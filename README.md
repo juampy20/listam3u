@@ -8,6 +8,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD 2
+https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/americatv_.png" group-title="(CABLE)" , AMERICA HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
