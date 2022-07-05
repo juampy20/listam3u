@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD 2
+https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
