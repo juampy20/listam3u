@@ -396,6 +396,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/3FlvASZKCkGIUFDOXiwLVZrRJBgYgz5T746IBZDrN3uriqLGKpVBElPQc5oEoCgJyiSg" group-title="(DEPORTES)", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_miptv-2022.jpeg" group-title="(DEPORTES)" , EVENTOS EXTRAS
 https://live-global-cdn-v02.afreecatv.com/live-stm-09/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.GgD2uX80Lnx8VTBhpSRo3HY9pvKbdQpw39JecLMwMiwnX-GNXlOH0UX-kfMkLe49crSP9xAdkmCh_BDJcYcR0zbYtEGYepCFUDJ_NX5ApfHPW3xElJdOzrFO85QfQpBs
 
