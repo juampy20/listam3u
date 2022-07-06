@@ -3,7 +3,7 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD 
-https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD-avc1_579968=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
 https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
