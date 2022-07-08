@@ -29,7 +29,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(NOTICIEROS)" , Cronica TV
+#EXTINF:-1 tvg-logo="https://www.utpba.org/wp-content/uploads/2019/07/cronica-logo.jpg" group-title="(NOTICIEROS)" , Cronica TV
 https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 
 
