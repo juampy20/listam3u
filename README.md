@@ -9,6 +9,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD
 https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD-avc1_579968=10004.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD mar del ṕlata
+https://telefecanal4.akamaized.net/hls/live/2042943/MardelPlata/TOK/hdntl=exp=1657330897~acl=%2f*~data=hdntl~hmac=85d377155248132ea88f817474ed69ef85eadccfabfbf1ec43657566ec099d1d/canal10mdp0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
 https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 
