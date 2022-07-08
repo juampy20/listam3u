@@ -42,6 +42,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , tyc sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
+#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport2 mexico
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_148.m3u8
+
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , EMISION PROPIA (DEPORTES)
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
