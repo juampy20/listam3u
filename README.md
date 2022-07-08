@@ -53,6 +53,15 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
+#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport 3
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , Espn
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
