@@ -54,7 +54,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="(DEPORTES)" , fox sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbDYwuwSmb3dPgnnf3kVHEu2pEMoo2tTH-axUSDBeq33fwLBqPLHedL3DR0BZyFg7X7k&usqp=CAU" group-title="(DEPORTES)" , fox sport
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
