@@ -85,7 +85,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , claro sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde64Dq4xsB5T0Xpy5m4CKemfCI0uHlDQecENndcmVE72t25sMgKoB6nCZ6GYhb4B6uU0&usqp=CAU" group-title="(DEPORTES)" , claro sports
 https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/7b42573e-c815-403b-877f-396e7d0746a0:SCL/master.m3u8
 
 
