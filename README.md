@@ -27,7 +27,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 #EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , musictop
+#EXTINF:-1 tvg-logo="--" group-title="(MUSICA)" , musictop
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport
