@@ -88,6 +88,23 @@ https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/7b42573
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
+#EXTINF:-1 tvg-logo="--" group-title="(PELICULAS)" , HBO
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
