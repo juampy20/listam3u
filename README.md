@@ -29,6 +29,11 @@ https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="--" group-title="(NOTICIEROS)" , Cronica TV
+https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
