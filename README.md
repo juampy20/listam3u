@@ -49,7 +49,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(MUSICA)" , musictop
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7c/78/3124/2/c175.png" group-title="(MUSICA)" , musictop
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
