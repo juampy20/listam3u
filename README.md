@@ -15,6 +15,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
 https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wHn1_QVoXGM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtReZTocdkFzvl23XFZu-DKG6elw" group-title="(NOTICIEROS)" , TN
+https://edge3.prepro.cvattv.com.ar/live/vod/TodoNoticiasHD/SA_Live_WebVTT_FTA/TodoNoticiasHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
 https://edge3.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
