@@ -2,12 +2,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD 
-https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD 
-https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 
 
