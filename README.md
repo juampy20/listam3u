@@ -93,8 +93,12 @@ https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/7b42573
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle-thumbnail.png" group-title="(PELICULAS)" , HBO
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle-thumbnail.png" group-title="(CINE)" , HBO
 https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252657013932404736/uwtEAcc3_400x400.jpg" group-title="(INFANTIL)" , Disney Junior
