@@ -53,7 +53,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport
+#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport 2
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 
