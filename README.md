@@ -97,6 +97,10 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252657013932404736/uwtEAcc3_400x400.jpg" group-title="(INFANTIL)" , Disney Junior
+https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
+
+
 
 
 
