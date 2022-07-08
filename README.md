@@ -29,7 +29,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.utpba.org/wp-content/uploads/2019/07/cronica-logo.jpg" group-title="(NOTICIEROS)" , Cronica TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cronica_m.png" group-title="(NOTICIEROS)" , Cronica TV
 https://edge1.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 
 
@@ -54,7 +54,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbDYwuwSmb3dPgnnf3kVHEu2pEMoo2tTH-axUSDBeq33fwLBqPLHedL3DR0BZyFg7X7k&usqp=CAU" group-title="(DEPORTES)" , fox sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="(DEPORTES)" , fox sport
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
