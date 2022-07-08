@@ -13,9 +13,6 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD
 https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , Cronica tv
-https://g4.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
 https://edge3.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
 
@@ -37,8 +34,6 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , TNT Sport
-https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
 
 #EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , Espn
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
