@@ -44,7 +44,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , telemax
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
 
@@ -54,7 +54,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="(DEPORTES)" , fox sport
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
