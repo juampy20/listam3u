@@ -58,7 +58,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport 2
+#EXTINF:-1 tvg-logo="https://spng.subpng.com/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg" group-title="(DEPORTES)" , fox sport 2
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 
@@ -80,7 +80,7 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , fox sport2 mexico
+#EXTINF:-1 tvg-logo="https://spng.subpng.com/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg" group-title="(DEPORTES)" , fox sport2 mexico
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_148.m3u8
 
 
