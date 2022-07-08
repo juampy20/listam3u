@@ -100,6 +100,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2022/02/paramount-logo-viacomcbs-divulgacao-paramount-1.jpg" group-title="(CINE)" , Paramount
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252657013932404736/uwtEAcc3_400x400.jpg" group-title="(INFANTIL)" , Disney Junior
 https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
