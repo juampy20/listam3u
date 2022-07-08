@@ -67,7 +67,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxS
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , Espn
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="(DEPORTES)" , Espn
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
