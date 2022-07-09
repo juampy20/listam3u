@@ -116,11 +116,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboxtreme_.png" group-title="(CINE)" , HBO Xtreme
 https://edge1.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png" group-title="(CINE)" , TNT
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tnt_.png" group-title="(CINE)" , TNT
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="(CINE)" , Warner
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="(CINE)" , Warner
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
 
