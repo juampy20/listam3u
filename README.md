@@ -75,7 +75,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-en-vivo-830.png" group-title="(DEPORTES)" , tyc sports
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg" group-title="(DEPORTES)" , tyc sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 
