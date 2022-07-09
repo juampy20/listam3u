@@ -177,8 +177,8 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/714/473/png-transparent-univision-communications-logo-business-the-onion-business-angle-text-people-thumbnail.png" group-title="(INTERES GRAL)" , Univision
+https://v-la.mybtv.net/live/178.m3u8
 
 
 
