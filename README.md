@@ -134,7 +134,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252657013932404736/uwtEAcc3_400x400.jpg" group-title="(INFANTIL)" , Disney Junior
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dj-wi_r_e0d4e71f.jpeg?region=0,1,1328,747&width=768" group-title="(INFANTIL)" , Disney Junior
 https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 
