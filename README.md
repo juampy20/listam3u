@@ -108,6 +108,9 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/space_.png" group-title="(CINE)" , SPACE
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cinecanal_.png" group-title="(CINE)" , Cinecanal
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fx_.png" group-title="(CINE)" , FX HD
 https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
