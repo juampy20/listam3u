@@ -205,6 +205,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme
 https://v-la.mybtv.net/live/178.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tbs_.png" group-title="(INTERES GRAL)" , TBS
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
 
 
 
