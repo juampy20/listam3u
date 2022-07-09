@@ -100,6 +100,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="(CINE)" , Star Chanell
+https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2022/02/paramount-logo-viacomcbs-divulgacao-paramount-1.jpg" group-title="(CINE)" , Paramount
 https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
