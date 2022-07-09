@@ -111,6 +111,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr
 https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="(INFANTIL)" , Discovery Kids
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryKids/SA_Live_WebVTT_FTA/DiscoveryKids.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="(DOCUMENTAL)" , Nat Geo
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
