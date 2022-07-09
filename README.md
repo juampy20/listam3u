@@ -229,8 +229,8 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u
 
 
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="(INTERIOR)" , TV PUBLICA FUEGUINA
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 
 #EXTINF:-1 tvg-logo="-" group-title="(INTERIOR)" , TELE JUNIN
