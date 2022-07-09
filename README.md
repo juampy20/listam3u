@@ -112,6 +112,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="(DOCUMENTAL)" , Metro
+https://edge1.prepro.cvattv.com.ar/live/vod/Metro/SA_Live_WebVTT_FTA/Metro.m3u8
+
+
+
 
 
 
