@@ -163,7 +163,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="(DOCUMENTAL)" , Discovery WORLD
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png" group-title="(DOCUMENTAL)" , Discovery WORLD
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 
 
@@ -176,7 +176,7 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/d6/d8/6fd6d8c4-7e7f-b036-9fb7-41ca7e404bdb/source/256x256bb.jpg" group-title="(DOCUMENTAL)" , TLC
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="(DOCUMENTAL)" , TLC
 https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
 
