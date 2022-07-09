@@ -131,6 +131,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/tcm-logo-new.png" group-title="(CINE)" , TCM
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
