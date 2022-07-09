@@ -78,15 +78,15 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxS
 
 
 
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="(DEPORTES)" , Espn
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn_.png" group-title="(DEPORTES)" , Espn
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="(DEPORTES)" , Espn 3
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn3_.png" group-title="(DEPORTES)" , Espn 3
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2009/02/Noticia4428__838x390.jpg" group-title="(DEPORTES)" , tyc sports
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 
