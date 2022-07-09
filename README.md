@@ -105,8 +105,11 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/space_.png" group-title="(CINE)" , SPACE
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fx_.png" group-title="(CINE)" , SPACE
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/space_.png" group-title="(CINE)" , SPACE
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbo_.png" group-title="(CINE)" , HBO
