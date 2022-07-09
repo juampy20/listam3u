@@ -116,6 +116,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD
 https://edge1.prepro.cvattv.com.ar/live/vod/Metro/SA_Live_WebVTT_FTA/Metro.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/d6/d8/6fd6d8c4-7e7f-b036-9fb7-41ca7e404bdb/source/256x256bb.jpg" group-title="(DOCUMENTAL)" , TLC
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+
+
+
 
 
 
