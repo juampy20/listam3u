@@ -96,8 +96,13 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle-thumbnail.png" group-title="(CINE)" , HBO
 https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/950.png" group-title="(CINE)" , HBO 2
 https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="(CINE)" , Warner
+https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
 
 
