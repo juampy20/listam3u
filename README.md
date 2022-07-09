@@ -138,6 +138,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryKids/SA_Live_WebVTT_FTA/Dis
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYde2zdIGheodg2Gnz5RJ1cB6eMp5knAu09l2_Y2txkzfERb8S4DvSa8xA-OGKiy-yQ&usqp=CAU" group-title="(DOCUMENTAL)" , Discovery
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="(DOCUMENTAL)" , Discovery WORLD
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 
