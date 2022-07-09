@@ -100,6 +100,11 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle-thumbnail.png" group-title="(CINE)" , SPACE
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle-thumbnail.png" group-title="(CINE)" , HBO
 https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
