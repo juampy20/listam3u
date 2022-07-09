@@ -150,16 +150,16 @@ https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/Ca
 https://edge1.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="(INFANTIL)" , Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discoverykids_.png" group-title="(INFANTIL)" , Discovery Kids
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryKids/SA_Live_WebVTT_FTA/DiscoveryKids.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="(DOCUMENTAL)" , Nat Geo
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , Nat Geo
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYde2zdIGheodg2Gnz5RJ1cB6eMp5knAu09l2_Y2txkzfERb8S4DvSa8xA-OGKiy-yQ&usqp=CAU" group-title="(DOCUMENTAL)" , Discovery
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="(DOCUMENTAL)" , Discovery
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 
