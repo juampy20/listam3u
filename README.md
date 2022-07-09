@@ -108,6 +108,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramou
 https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="(DOCUMENTAL)" , Nat Geo
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+
 
 
 
