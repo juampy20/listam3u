@@ -217,6 +217,10 @@ https://v-la.mybtv.net/live/178.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="(INTERES GRAL)" , VOLVER
+https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
+
+
 
 
 
