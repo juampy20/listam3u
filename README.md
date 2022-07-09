@@ -128,23 +128,25 @@ https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" group-title="(CINE)" , Star Chanell
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/starchannel_.png" group-title="(CINE)" , Star Chanell
 https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2022/02/paramount-logo-viacomcbs-divulgacao-paramount-1.jpg" group-title="(CINE)" , Paramount
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/paramount_.png" group-title="(CINE)" , Paramount
 https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/dj-wi_r_e0d4e71f.jpeg?region=0,1,1328,747&width=768" group-title="(INFANTIL)" , Disney Junior
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/disneyjr_.png" group-title="(INFANTIL)" , Disney Junior
 https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/d1/41/8dd141ac06fb924e7970038741897f03.png" group-title="(INFANTIL)" , Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cartoon_.png" group-title="(INFANTIL)" , Cartoon Network
 https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ax8hXehMYts/hqdefault.jpg" group-title="(INFANTIL)" , Nikelodeon
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/nick_.png" group-title="(INFANTIL)" , Nikelodeon
 https://edge1.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
 
