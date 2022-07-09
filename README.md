@@ -107,6 +107,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramou
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252657013932404736/uwtEAcc3_400x400.jpg" group-title="(INFANTIL)" , Disney Junior
 https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/d1/41/8dd141ac06fb924e7970038741897f03.png" group-title="(INFANTIL)" , Cartoon Network
+https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="(DOCUMENTAL)" , Nat Geo
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
