@@ -55,25 +55,25 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b
 
 
 
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7c/78/3124/2/c175.png" group-title="(MUSICA)" , musictop
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/musictop_.png" group-title="(MUSICA)" , musictop
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="(DEPORTES)" , fox sport
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , fox sport
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2019/07/5d1c9e0d79f40__838x390.jpg" group-title="(DEPORTES)" , TNT Sport
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT Sport
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_1_5128000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://spng.subpng.com/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg" group-title="(DEPORTES)" , fox sport 2
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , fox sport 2
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" group-title="(DEPORTES)" , fox sport 3
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports3_.png" group-title="(DEPORTES)" , fox sport 3
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
 
