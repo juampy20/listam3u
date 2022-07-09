@@ -154,6 +154,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/
 https://edge1.prepro.cvattv.com.ar/live/vod/Metro/SA_Live_WebVTT_FTA/Metro.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="(DOCUMENTAL)" , Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/d6/d8/6fd6d8c4-7e7f-b036-9fb7-41ca7e404bdb/source/256x256bb.jpg" group-title="(DOCUMENTAL)" , TLC
 https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
