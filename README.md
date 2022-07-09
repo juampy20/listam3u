@@ -112,6 +112,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="(DOCUMENTAL)" , Discovery WORLD
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="(DOCUMENTAL)" , Metro
 https://edge1.prepro.cvattv.com.ar/live/vod/Metro/SA_Live_WebVTT_FTA/Metro.m3u8
 
