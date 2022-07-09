@@ -100,7 +100,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 
 
 
-#EXTINF:-1 tvg-logo="--" group-title="(DEPORTES)" , EMISION PROPIA (DEPORTES)
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/dise%C3%B1o-del-vector-equipo-de-deportes-121499766.jpg" group-title="(DEPORTES)" , EMISION PROPIA (DEPORTES)
 https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
