@@ -129,6 +129,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m
 https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="(ADULTOS)" , Sextreme
+https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+
+
 
 
 
