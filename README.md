@@ -21,7 +21,7 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://edge1.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wHn1_QVoXGM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtReZTocdkFzvl23XFZu-DKG6elw" group-title="(NOTICIEROS)" , TN
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tn_.png" group-title="(NOTICIEROS)" , TN
 https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticiasHD/SA_Live_WebVTT_FTA/TodoNoticiasHD.m3u8
 
 
@@ -30,7 +30,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/c5n.png" group-title="(NOTICIEROS)" , C5N
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/c5n_.png" group-title="(NOTICIEROS)" , C5N
 https://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 
@@ -50,7 +50,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="(CABLE)" , telemax
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
 
