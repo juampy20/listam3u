@@ -125,6 +125,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_venus_m.png" group-title="(ADULTOS)" , VENUS
+https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+
+
+
 
 
 
