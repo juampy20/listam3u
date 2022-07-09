@@ -58,6 +58,11 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2019/07/5d1c9e0d79f40__838x390.jpg" group-title="(DEPORTES)" , TNT Sport
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_1_5128000.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://spng.subpng.com/20180618/tul/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22846056.4821803015293512025422.jpg" group-title="(DEPORTES)" , fox sport 2
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
