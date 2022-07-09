@@ -108,7 +108,7 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/950.png" group-title="(CINE)" , HBO 2
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="(CINE)" , HBO 2
 https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 
 
