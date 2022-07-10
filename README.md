@@ -198,17 +198,17 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="(z-ADULTOS)" , Playboy
-https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="(z-ADULTOS)" , Playboy  (contactar proveedor)
+ttps://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1634236703157-05-vens.png" group-title="(z-ADULTOS)" , VENUS
-https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1634236703157-05-vens.png" group-title="(z-ADULTOS)" , VENUS (contactar proveedor)
+ttps://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/sextreme-5618.png" group-title="(z-ADULTOS)" , Sextreme
-https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/sextreme-5618.png" group-title="(z-ADULTOS)" , Sextreme (contactar proveedor)
+ttps://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
 
 
