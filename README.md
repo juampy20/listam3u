@@ -101,7 +101,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1364638693605056512/LFbU29pI_400x400.jpg" group-title="(DEPORTES)" , EMISION PROPIA (DEPORTES)
-https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.3XiM9bXcJZlD1o_a3DSkpRUKVEwEOCOcAUNtbh8jztsKea-PQtXXy98d06WsNQS4DeKGv94dKqPDPQvix10NR_Vz5LPEvOKtup-GZl5WCe5DMN4ASYdqZcjzzd6SB0aR
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
 
