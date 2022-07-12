@@ -2,12 +2,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD 
-https://edge1.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD 
-https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 
 
@@ -18,25 +18,25 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
-https://edge1.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tn_.png" group-title="(NOTICIEROS)" , TN
-https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticiasHD/SA_Live_WebVTT_FTA/TodoNoticiasHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TodoNoticiasHD/SA_Live_WebVTT_FTA/TodoNoticiasHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
-https://edge1.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/c5n_.png" group-title="(NOTICIEROS)" , C5N
-https://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cronica_m.png" group-title="(NOTICIEROS)" , Cronica TV
-https://edge1.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 
 
 
@@ -61,7 +61,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , fox sport
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT Sport
@@ -70,20 +70,20 @@ https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_812
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , fox sport 2
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports3_.png" group-title="(DEPORTES)" , fox sport 3
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn_.png" group-title="(DEPORTES)" , Espn
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn3_.png" group-title="(DEPORTES)" , Espn 3
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports
