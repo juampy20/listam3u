@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , php test
-https://cdn.sportcast.life/nginx.php?id=419.m3u8
+https://cdn.sportcast.life/nginx.php?id=419.php
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD 
