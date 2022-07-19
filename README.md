@@ -10,18 +10,16 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_59996
 
  
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542138819767672832/1jO2sZDr_400x400.jpg" group-title="(CABLE)" , telefe sin audio
-https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/track_3_6000/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" , EL NUEVE
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , C5N
-https://cvi.cdn.rcs.net.ar/mnp/c5n_hls/track_3_6000/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
