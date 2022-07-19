@@ -28,8 +28,7 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/deportv_.png" group-title="(DEPORTES)" , DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
+
 
 
 
