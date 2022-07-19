@@ -1,7 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , php test
-https://cdn.sportcast.life/nginx.php?id=419.php
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+https://v-la.mybtv.net/live/298.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+https://v-la.mybtv.net/live/299.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+https://v-la.mybtv.net/live/300.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+https://v-la.mybtv.net/live/168.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/164.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/165.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/180.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/182.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles  fox
+https://v-la.mybtv.net/live/166.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test japon
+https://v-la.mybtv.net/live/179.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
