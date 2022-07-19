@@ -44,6 +44,9 @@ https://v-la.mybtv.net/live/96.m3u8
 https://v-la.mybtv.net/live/164.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/97.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/281.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
@@ -88,6 +91,9 @@ https://v-la.mybtv.net/live/270.m3u8
 https://v-la.mybtv.net/live/262.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/81.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/165.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
@@ -95,6 +101,9 @@ https://v-la.mybtv.net/live/180.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/274.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/82.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/182.m3u8
