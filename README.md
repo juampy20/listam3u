@@ -4,24 +4,46 @@
 https://v-la.mybtv.net/live/267.m3u8
 
 
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
-https://v-la.mybtv.net/live/298.m3u8
 
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español  unimas
 https://v-la.mybtv.net/live/299.m3u8
 
-
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
+https://v-la.mybtv.net/live/103.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español  tv azteca
+https://v-la.mybtv.net/live/107.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español estrella tv
+https://v-la.mybtv.net/live/112.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
 https://v-la.mybtv.net/live/300.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
+https://v-la.mybtv.net/live/105.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
 https://v-la.mybtv.net/live/168.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
 html#https://v-la.mybtv.net/live/268.m3u8
+ 
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
+https://v-la.mybtv.net/live/286.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
+https://v-la.mybtv.net/live/298.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/164.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/281.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/288.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles x
 html#https://v-la.mybtv.net/live/276.m3u8
@@ -31,6 +53,12 @@ https://v-la.mybtv.net/live/275.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/269.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/290.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/291.m3u8
 
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/264.m3u8
