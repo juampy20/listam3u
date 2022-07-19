@@ -5,7 +5,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_4
 
 
  
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , el trece
+#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , el trece test x2
 https://cvi.cdn.rcs.net.ar/mnp/el13_hls/track_3_6000/playlist.m3u8,
 https://cvi.cdn.rcs.net.ar/mnp/el13_hls/audio_4/playlist.m3u8
 
