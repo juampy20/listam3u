@@ -43,6 +43,10 @@ https://v-la.mybtv.net/live/96.m3u8
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/164.m3u8
 
+
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
+https://v-la.mybtv.net/live/88.m3u8
+
 #EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
 https://v-la.mybtv.net/live/97.m3u8
 
