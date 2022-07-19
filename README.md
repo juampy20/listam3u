@@ -43,8 +43,7 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT Sport
-https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
+
 
 
 
