@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , php test
+#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , php test
 https://cdn.sportcast.life/nginx.php?id=419.php
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/eltrece_.png" group-title="(CABLE)" , EL TRECE HD 
-https://edge3.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telefe_.png" group-title="(CABLE)" , TELEFE HD 
-https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+
 
 
 
@@ -20,26 +17,9 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="(NOTICIEROS)" , A24
-https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tn_.png" group-title="(NOTICIEROS)" , TN
-https://edge3.prepro.cvattv.com.ar/live/vod/TodoNoticiasHD/SA_Live_WebVTT_FTA/TodoNoticiasHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_rai_m.png" group-title="(NOTICIEROS)" , RAI Italia
-https://edge3.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/c5n_.png" group-title="(NOTICIEROS)" , C5N
-https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cronica_m.png" group-title="(NOTICIEROS)" , Cronica TV
-https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 
 
 
@@ -63,30 +43,15 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" group-title="(DEPORTES)" , fox sport
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tntsports_.png" group-title="(DEPORTES)" , TNT Sport
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , fox sport 2
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports3_.png" group-title="(DEPORTES)" , fox sport 3
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn_.png" group-title="(DEPORTES)" , Espn
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn3_.png" group-title="(DEPORTES)" , Espn 3
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports
@@ -103,93 +68,15 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1364638693605056512/LFbU29pI_400x400.jpg" group-title="(DEPORTES)" , EMISION PROPIA (DEPORTES)
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/space_.png" group-title="(CINE)" , SPACE
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cinecanal_.png" group-title="(CINE)" , Cinecanal
-https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/fx_.png" group-title="(CINE)" , FX HD
-https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_amc_m.png" group-title="(CINE)" , AMC
-https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbo_.png" group-title="(CINE)" , HBO
-https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hbo2_.png" group-title="(CINE)" , HBO 2
-https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/hboxtreme_.png" group-title="(CINE)" , HBO Xtreme
-https://edge1.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tnt_.png" group-title="(CINE)" , TNT
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/warner_.png" group-title="(CINE)" , Warner
-https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/tcm-logo-new.png" group-title="(CINE)" , TCM
-https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="(CINE)" , Comedy Central
-https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/starchannel_.png" group-title="(CINE)" , Star Chanell
-https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/paramount_.png" group-title="(CINE)" , Paramount
-https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/disneyjr_.png" group-title="(INFANTIL)" , Disney Junior
-https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/cartoon_.png" group-title="(INFANTIL)" , Cartoon Network
-https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/nick_.png" group-title="(INFANTIL)" , Nikelodeon
-https://edge1.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discoverykids_.png" group-title="(INFANTIL)" , Discovery Kids
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryKids/SA_Live_WebVTT_FTA/DiscoveryKids.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/natgeo_.png" group-title="(DOCUMENTAL)" , Nat Geo
-https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/discovery_.png" group-title="(DOCUMENTAL)" , Discovery
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png" group-title="(DOCUMENTAL)" , Discovery WORLD
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="(DOCUMENTAL)" , Metro
-https://edge1.prepro.cvattv.com.ar/live/vod/Metro/SA_Live_WebVTT_FTA/Metro.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="(DOCUMENTAL)" , Canal Rural
@@ -197,21 +84,7 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tlc_.png" group-title="(DOCUMENTAL)" , TLC
-https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="(z-ADULTOS)" , Playboy  (contactar proveedor)
-ttps://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1634236703157-05-vens.png" group-title="(z-ADULTOS)" , VENUS (contactar proveedor)
-ttps://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/sextreme-5618.png" group-title="(z-ADULTOS)" , Sextreme (contactar proveedor)
-ttps://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
 
 
@@ -219,12 +92,7 @@ ttps://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.
 https://v-la.mybtv.net/live/178.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tbs_.png" group-title="(INTERES GRAL)" , TBS
-https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="(INTERES GRAL)" , VOLVER
-https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
 
 
 
