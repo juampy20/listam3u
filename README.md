@@ -5,12 +5,8 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5
 
 
  
-#EXTINF:-1 tvg-logo="--" group-title="(CABLE)" , el trece test x2
-https://cvi.cdn.rcs.net.ar/mnp/el13_hls/track_3_6000/playlist.m3u8,
-https://cvi.cdn.rcs.net.ar/mnp/el13_hls/audio_4/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542138819767672832/1jO2sZDr_400x400.jpg" group-title="(CABLE)" , telefe
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542138819767672832/1jO2sZDr_400x400.jpg" group-title="(CABLE)" , telefe sin audio
 https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/track_3_6000/playlist.m3u8
 
 
