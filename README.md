@@ -11,160 +11,14 @@ https://cvi.cdn.rcs.net.ar/mnp/el13_hls/track_3_6000/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/track_3_6000/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español  telemundo
-https://v-la.mybtv.net/live/267.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español  unimas
-https://v-la.mybtv.net/live/299.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
-https://v-la.mybtv.net/live/103.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español  tv azteca
-https://v-la.mybtv.net/live/107.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español estrella tv
-https://v-la.mybtv.net/live/112.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
-https://v-la.mybtv.net/live/300.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
-https://v-la.mybtv.net/live/105.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
-https://v-la.mybtv.net/live/168.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español
-html#https://v-la.mybtv.net/live/268.m3u8
- 
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
-https://v-la.mybtv.net/live/286.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
-https://v-la.mybtv.net/live/298.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test español religion
-https://v-la.mybtv.net/live/96.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/164.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/88.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/97.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/281.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/94.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/288.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles x
-html#https://v-la.mybtv.net/live/276.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles x
-https://v-la.mybtv.net/live/95.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/275.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/269.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/290.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/291.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/264.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/266.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/261.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/270.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/262.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/81.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/165.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/180.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/274.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/82.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/182.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/185.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles  fox
-https://v-la.mybtv.net/live/166.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test ingles
-https://v-la.mybtv.net/live/280.m3u8
-
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test japon
-https://v-la.mybtv.net/live/179.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test japon
-html#https://v-la.mybtv.net/live/183.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test japon
-https://v-la.mybtv.net/live/272.m3u8
-
-#EXTINF:-1 tvg-logo="http" group-title="(CABLE)" , test japon
-https://v-la.mybtv.net/live/279.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , C5N
+https://cvi.cdn.rcs.net.ar/mnp/c5n_hls/track_3_6000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
@@ -234,6 +88,142 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/298052f7d0c144e82b2750ad55289082.webp" group-title="(CABLE)" ,TIERRAMIA INTERES GENERAL
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/chunklist_w1065847888_b1864000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español  telemundo
+https://v-la.mybtv.net/live/267.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español  unimas
+https://v-la.mybtv.net/live/299.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español
+https://v-la.mybtv.net/live/103.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español  tv azteca
+https://v-la.mybtv.net/live/107.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español estrella tv
+https://v-la.mybtv.net/live/112.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español religion
+https://v-la.mybtv.net/live/300.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español religion
+https://v-la.mybtv.net/live/105.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español
+https://v-la.mybtv.net/live/168.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español
+html#https://v-la.mybtv.net/live/268.m3u8
+ 
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español religion
+https://v-la.mybtv.net/live/286.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español religion
+https://v-la.mybtv.net/live/298.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test español religion
+https://v-la.mybtv.net/live/96.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/164.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/88.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/97.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/281.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/94.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/288.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles x
+html#https://v-la.mybtv.net/live/276.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles x
+https://v-la.mybtv.net/live/95.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/275.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/269.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/290.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/291.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/264.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/266.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/261.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/270.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/262.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/81.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/165.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/180.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/274.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/82.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/182.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/185.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles  fox
+https://v-la.mybtv.net/live/166.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test ingles
+https://v-la.mybtv.net/live/280.m3u8
+
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test japon
+https://v-la.mybtv.net/live/179.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test japon
+html#https://v-la.mybtv.net/live/183.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test japon
+https://v-la.mybtv.net/live/272.m3u8
+
+#EXTINF:-1 tvg-logo="http" group-title="(test)" , test japon
+https://v-la.mybtv.net/live/279.m3u8
 
 
 
