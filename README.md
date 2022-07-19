@@ -4,108 +4,38 @@
 https://cdn.sportcast.life/nginx.php?id=419.php
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIEROS)" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/musictop_.png" group-title="(MUSICA)" , musictop
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-play-2288.jpg" group-title="(DEPORTES)" , tyc sports PLAY
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports2_.png" group-title="(DEPORTES)" , fox sport2 mexico
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_148.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://www.elrural.com/wp-content/uploads/2016/05/cropped-favicon.png" group-title="(DOCUMENTAL)" , Canal Rural
 https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/714/473/png-transparent-univision-communications-logo-business-the-onion-business-angle-text-people-thumbnail.png" group-title="(INTERES GRAL)" , Univision
 https://v-la.mybtv.net/live/178.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="-" group-title="(INTERIOR)" , TV PUBLICA FUEGUINA
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
-
 #EXTINF:-1 tvg-logo="-" group-title="(INTERIOR)" , TELE JUNIN
 https://59537faa0729a.streamlock.net/telejunin/telejunin/chunklist_w263544613.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-chUAuvMVb7I/YVMlgCemfxI/AAAAAAAAQ_M/gF7nwjEczvcF8TuESXp-BX_1tZcDD-ongCLcBGAsYHQ/w143-h143/Canal%2BSeis%2BPosadas%2Ben%2Bvivo.png" group-title="(INTERIOR)" , POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
