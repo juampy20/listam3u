@@ -23,8 +23,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_59996
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=6-mp4a_63000_spa=9.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , 
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=5-mp4a_63000_spa=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=4-mp4a_63000_spa=9.m3u8
