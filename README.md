@@ -32,6 +32,8 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_599
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=4-mp4a_63000_spa=9.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE (OPCIONAL)
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
 
@@ -56,8 +58,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-av
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-avc1_5999616=16-mp4a_63000=20.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIAS)" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N-avc1_1499136=5-mp4a_60000=11.m3u8
@@ -65,8 +70,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N-avc1_1499136=5-m
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N-avc1_1499136=4-mp4a_60000=11.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VkzySgsB7i0/YT5EiwlSHbI/AAAAAAAAALg/NX4WbQ4t12AcsDi-fP-BmWmKIb8M2J7oACLcBGAsYHQ/w480/TN.png" group-title="(NOTICIAS)" , TN
 https://cvi.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Su_IBL7T52g/YT5AkN3JRrI/AAAAAAAAALI/lQnG3U9ltAk-ckyIPKFkXZieGUgHyX75QCLcBGAsYHQ/w480/A24.png" group-title="(NOTICIAS)" , A 24
@@ -78,8 +86,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/telemax_.png" group-title="(CABLE)" , TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/musictop_.png" group-title="(MUSICA)" ,MUSICTOP
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VPXvfKjWZWg/YfxX4XazgDI/AAAAAAAAAV4/1ZKU1P6gJFI-ZYSsKcGHxCFbcqq0GOLPgCNcBGAsYHQ/w480/ver-htv-en-vivo.png" group-title="(MUSICA)" ,HTV
 https://cvi.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
@@ -88,6 +98,7 @@ https://cvi.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hwKQynRdvgQ/YfxdgwNxU-I/AAAAAAAAAWY/CMKV52FPxB0lfV6GlApYSdfAUGMEwUWtwCNcBGAsYHQ/w480/ver-cm-musica-en-vivo.png" group-title="(MUSICA)" , CM
 https://cvi.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BtlzDH-S8A/YfxbPQuwRKI/AAAAAAAAAWA/z_MP58QNIIoeBQX1esoNQMy-UgabB5UngCNcBGAsYHQ/w480/ver-mtv-musica-en-vivo.png" group-title="(MUSICA)" , MTV
 https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
@@ -95,10 +106,11 @@ https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/tyc_.png" group-title="(DEPORTES)" , tyc sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium FHD
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_65000=12.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=8-mp4a_65000=12.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium SD
@@ -107,11 +119,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sp
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT Sports  FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT Sports  FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_5999616=19-mp4a_54000_spa=28.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT Sports SD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT Sports 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_5999616=18-mp4a_54000_spa=28.m3u8
 
 
@@ -120,10 +132,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-av
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_63000_spa=20.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=5-mp4a_63000_spa=20.m3u8
 
 
@@ -133,11 +145,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=4
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_61000_eng=23.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 720 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=5-mp4a_61000_eng=23.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 SD
@@ -147,10 +159,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_68000_spa=4.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=11-mp4a_68000_spa=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 SD
@@ -186,10 +198,10 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mK0i3ykdm64/YsWuUjXHWBI/AAAAAAAAAnU/f33MQd-PX_g5cSgF3ob_GXON4bJ-lGQtgCNcBGAsYHQ/w480/ver-trutv-hd-en-vivo.jpg" group-title="(DOCUMENTAL)" , TRU TV
 https://cvi.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=8-mp4a_62000_eng=19.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_62000_eng=19.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY SD
@@ -198,12 +210,13 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 2
-https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY FHD
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=6-mp4a_61000_eng=15.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_61000_eng=15.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY SD
@@ -211,10 +224,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_52000_spa=21.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=7-mp4a_52000_spa=21.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET SD
@@ -222,15 +235,21 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Pla
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal  FHD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=4-mp4a_62000_spa=2.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal  FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_62000_spa=2.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal  720
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=4-mp4a_62000_spa=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal  SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=3-mp4a_62000_spa=2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_65000_spa=21.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT FULL 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=17-mp4a_65000_spa=21.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT SD
@@ -248,14 +267,20 @@ https://cvi.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_2499584=5-mp4a_62000_eng=25.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  FULL 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_2499584=4-mp4a_62000_eng=25.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_2499584=3-mp4a_62000_eng=25.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_499712=8-mp4a_62000_spa=30.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  FULL 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_499712=7-mp4a_62000_spa=30.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  SD
