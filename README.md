@@ -168,8 +168,16 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w905857316.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mK0i3ykdm64/YsWuUjXHWBI/AAAAAAAAAnU/f33MQd-PX_g5cSgF3ob_GXON4bJ-lGQtgCNcBGAsYHQ/w480/ver-trutv-hd-en-vivo.jpg" group-title="(DOCUMENTAL)" , TRU TV
 https://cvi.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY FHD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=8-mp4a_62000_eng=19.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_62000_eng=19.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rMJ2_1AOv7E/YaQodKYQClI/AAAAAAAAATE/rr39gzT0JS0rIj7hltfep3U_Sb00iwvbACLcBGAsYHQ/w480/ver-history-channel-hd-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=6-mp4a_62000_eng=19.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 2
 https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
