@@ -41,8 +41,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-av
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/canal26_.png" group-title="(NOTICIAS)" , CANAL 26 HD
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N FHD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N-avc1_1499136=5-mp4a_60000=11.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N-avc1_1499136=4-mp4a_60000=11.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VkzySgsB7i0/YT5EiwlSHbI/AAAAAAAAALg/NX4WbQ4t12AcsDi-fP-BmWmKIb8M2J7oACLcBGAsYHQ/w480/TN.png" group-title="(NOTICIAS)" , TN
 https://cvi.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
