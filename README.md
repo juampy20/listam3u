@@ -215,8 +215,11 @@ https://cvi.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  FHD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_499712=7-mp4a_62000_spa=30.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_499712=6-mp4a_62000_spa=30.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="(CINE)" , TBS
