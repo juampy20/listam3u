@@ -264,8 +264,16 @@ https://cvi.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY
-https://cvi.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY FHD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=8-mp4a_62000_spa=11.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY 
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=7-mp4a_62000_spa=11.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=6-mp4a_62000_spa=11.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/w480/ver-cartoon-network.png" group-title="(INFANTIL)" , CARTOON NETWORK
 https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
