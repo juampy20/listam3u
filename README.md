@@ -193,8 +193,11 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=3-mp4a_62000_spa=2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=17-mp4a_65000_spa=21.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=16-mp4a_65000_spa=21.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="(CINE)" , CINEMAX
@@ -217,8 +220,11 @@ https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=6-mp4a_62000_spa=24.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=5-mp4a_62000_spa=24.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="(CINE)" , TCM
 https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
@@ -227,8 +233,12 @@ https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=7-mp4a_65000_spa=9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=6-mp4a_65000_spa=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWNBCvtybU/YT5N15bmw6I/AAAAAAAAANg/VvfEN0ci4qwr007jHPk4d2QrdOOcjIhWQCLcBGAsYHQ/w480/HBO.png" group-title="(CINE)" , HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
