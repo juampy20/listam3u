@@ -292,11 +292,15 @@ https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_62000_spa=24.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE FULL 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=6-mp4a_62000_spa=24.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=5-mp4a_62000_spa=24.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="(CINE)" , TCM
 https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
@@ -305,12 +309,17 @@ https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL FHD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=7-mp4a_65000_spa=9.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL FULL HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_65000_spa=9.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL 720
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_65000_spa=9.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHOwj1jGBacK4L7kAzZO7GDcAnIog-NiA8jbwCPMuHqJ5HsZVCzYNO6kwf2xoLf4oeRN_J_3NxpbZW45xupY7J73vRUe2v6sD2bBwth58833AcMAxNYFnP4kNNUTKXybx58bD2CdZw1EIIKxHsLIl9DqTKClXTNEfIRZR0y1T_Xj-mlVRW8oNUuT2/s1600/ver-star-channel-en-vivo.jpg" group-title="(CINE)" , STAR CHANNEL SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=6-mp4a_65000_spa=9.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWNBCvtybU/YT5N15bmw6I/AAAAAAAAANg/VvfEN0ci4qwr007jHPk4d2QrdOOcjIhWQCLcBGAsYHQ/w480/HBO.png" group-title="(CINE)" , HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
@@ -323,10 +332,10 @@ https://cvi.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=8-mp4a_62000_spa=11.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=7-mp4a_62000_spa=11.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY SD
