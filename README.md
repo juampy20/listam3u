@@ -174,10 +174,14 @@ https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY
 https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET FHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_52000_spa=21.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET 
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=7-mp4a_52000_spa=21.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=6-mp4a_52000_spa=21.m3u8
 
 
 
