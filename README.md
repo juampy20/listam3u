@@ -212,7 +212,10 @@ https://cvi.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  FHD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_2499584=4-mp4a_62000_eng=25.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC  SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_2499584=3-mp4a_62000_eng=25.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN  FHD
