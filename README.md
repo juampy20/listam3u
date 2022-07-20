@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5999616=17-mp4a_65000_spa=29.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5999616=16-mp4a_65000_spa=29.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE SD
@@ -11,10 +11,10 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE FHD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_60000_spa=19.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=14-mp4a_60000_spa=19.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE SD
@@ -23,20 +23,26 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_59996
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV FHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=6-mp4a_63000_spa=9.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV 720
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=5-mp4a_63000_spa=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=4-mp4a_63000_spa=9.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE (OPCIONAL)
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2aa73334-cc17-4f94-be98-1a7e07774eed/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE  FHD
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE  FULL HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_5999616=18-mp4a_65000_spa=20.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE  FULL 720
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_5999616=17-mp4a_65000_spa=20.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE  SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_5999616=16-mp4a_65000_spa=20.m3u8
 
 
 
