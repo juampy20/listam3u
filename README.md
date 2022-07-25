@@ -369,6 +369,7 @@ https://cvi.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl=w480" group-title="(INTERES GRAL)" , LIFETIME
 https://cvi.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 
