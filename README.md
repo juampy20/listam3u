@@ -355,8 +355,11 @@ https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/w480/Tooncast.png" group-title="(INFANTIL)" , TOONCAST
-https://cvi.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/w480/Tooncast.png" group-title="(INFANTIL)" , TOONCAST HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast-avc1_5999616=10-mp4a_62000_spa=11.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/w480/Tooncast.png" group-title="(INFANTIL)" , TOONCAST SD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast-avc1_5999616=10-mp4a_62000_spa=11.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/w480/ver-boomerang-en-vivo.png" group-title="(INFANTIL)" , BOOMERANG
 https://cvi.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
