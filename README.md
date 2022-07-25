@@ -344,6 +344,9 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Ch
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=6-mp4a_62000_spa=11.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/TOC.jpg" group-title="(INFANTIL)" , TOONCAST
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/w480/ver-cartoon-network.png" group-title="(INFANTIL)" , CARTOON NETWORK
 https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
