@@ -381,3 +381,6 @@ https://cvi.cdn.rcs.net.ar/mnp/glitz_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="(INTERES GRAL)" , LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
